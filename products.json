@@ -1,0 +1,3405 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "titulo": "Pre-Owned Audemars Piguet Royal Oak Selfwinding Black Dial",
+      "referencia": "N/A",
+      "preco": "$39,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-selfwinding-black-dial.html",
+      "fotos": [
+        "./assets\\produto_1\\foto_1.jpg",
+        "./assets\\produto_1\\foto_2.jpg",
+        "./assets\\produto_1\\foto_3.jpg",
+        "./assets\\produto_1\\foto_4.jpg",
+        "./assets\\produto_1\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 2,
+      "titulo": "Audemars Piguet Ref BA56384",
+      "referencia": "N/A",
+      "preco": "$5,795",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-ref-ba56384.html",
+      "fotos": [
+        "./assets\\produto_2\\foto_1.jpg",
+        "./assets\\produto_2\\foto_2.jpg",
+        "./assets\\produto_2\\foto_3.jpg",
+        "./assets\\produto_2\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 3,
+      "titulo": "Pre-Owne Audemars Piguet Royal Oak Offshore Chronograph Carbon",
+      "referencia": "N/A",
+      "preco": "$18,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owne-audemars-piguet-royal-oak-offshore-chronograph-carbon.html",
+      "fotos": [
+        "./assets\\produto_3\\foto_1.jpg",
+        "./assets\\produto_3\\foto_2.jpg",
+        "./assets\\produto_3\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 4,
+      "titulo": "Pre-Owned Steel & Pink Gold Audemars Piguet Royal Oak Selfwinding",
+      "referencia": "N/A",
+      "preco": "$49,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-steel-and-pink-gold-audemars-piguet-royal-oak-selfwinding.html",
+      "fotos": [
+        "./assets\\produto_4\\foto_1.jpg",
+        "./assets\\produto_4\\foto_2.jpg",
+        "./assets\\produto_4\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 5,
+      "titulo": "Pre-Owned Audemars Piguet Promesse Black Dial",
+      "referencia": "N/A",
+      "preco": "$8,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-promesse-black-dial.html",
+      "fotos": [
+        "./assets\\produto_5\\foto_1.jpg",
+        "./assets\\produto_5\\foto_2.jpg",
+        "./assets\\produto_5\\foto_3.jpg",
+        "./assets\\produto_5\\foto_4.jpg",
+        "./assets\\produto_5\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 6,
+      "titulo": "Pre-Owned Audemars Piguet Royal Oak Selfwinding Silver Dial",
+      "referencia": "N/A",
+      "preco": "$44,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-selfwinding-silver-dial.html",
+      "fotos": [
+        "./assets\\produto_6\\foto_1.jpg",
+        "./assets\\produto_6\\foto_2.jpg",
+        "./assets\\produto_6\\foto_3.jpg",
+        "./assets\\produto_6\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 7,
+      "titulo": "Pre-Owned Audemars Piguet Lady Royal Oak Silver Dial",
+      "referencia": "N/A",
+      "preco": "$9,495",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-lady-royal-oak-silver-dial.html",
+      "fotos": [
+        "./assets\\produto_7\\foto_1.jpg",
+        "./assets\\produto_7\\foto_2.jpg",
+        "./assets\\produto_7\\foto_3.jpg",
+        "./assets\\produto_7\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 8,
+      "titulo": "Audemars Piguet Royal Oak Offshore Selfwinding Ivory Dial",
+      "referencia": "N/A",
+      "preco": "$57,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-selfwinding-ivory-dial.html",
+      "fotos": [
+        "./assets\\produto_8\\foto_1.jpg",
+        "./assets\\produto_8\\foto_2.jpg",
+        "./assets\\produto_8\\foto_3.jpg",
+        "./assets\\produto_8\\foto_4.jpg",
+        "./assets\\produto_8\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 9,
+      "titulo": "Pre-Owned Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Anthracite Dial",
+      "referencia": "N/A",
+      "preco": "$52,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-offshore-selfwinding-chronograph-anthracite-dial.html",
+      "fotos": [
+        "./assets\\produto_9\\foto_1.jpg",
+        "./assets\\produto_9\\foto_2.jpg",
+        "./assets\\produto_9\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 10,
+      "titulo": "Pre-Owned Audemars Piguet Royal Oak Offshore Vampire",
+      "referencia": "N/A",
+      "preco": "$21,495",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-offshore-vampire.html",
+      "fotos": [
+        "./assets\\produto_10\\foto_1.jpg",
+        "./assets\\produto_10\\foto_2.jpg",
+        "./assets\\produto_10\\foto_3.jpg",
+        "./assets\\produto_10\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 11,
+      "titulo": "Pre-Owned Audemars Piguet Royal Oak Selfwinding Diamond Bezel",
+      "referencia": "N/A",
+      "preco": "$49,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-selfwinding-diamond-bezel.html",
+      "fotos": [
+        "./assets\\produto_11\\foto_1.jpg",
+        "./assets\\produto_11\\foto_2.jpg",
+        "./assets\\produto_11\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 12,
+      "titulo": "Pre-Owned Audemars Piguet Royal Oak Selfwinding Silver Grande Tapisserie Dial",
+      "referencia": "N/A",
+      "preco": "$44,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-selfwinding-silver-grande-tapisserie-dial.html",
+      "fotos": [
+        "./assets\\produto_12\\foto_1.jpg",
+        "./assets\\produto_12\\foto_2.jpg",
+        "./assets\\produto_12\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 13,
+      "titulo": "Used Audemars Piguet Royal Oak Offshore Chronograph Ivory Dial",
+      "referencia": "N/A",
+      "preco": "$21,495",
+      "url": "https://www.bobswatches.com/audemars-piguet/used-audemars-piguet-royal-oak-offshore-chronograph-ivory-dial.html",
+      "fotos": [
+        "./assets\\produto_13\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 14,
+      "titulo": "Audemars Piguet Royal Oak Offshore Las Vegas Strip",
+      "referencia": "N/A",
+      "preco": "$21,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-las-vegas-strip.html",
+      "fotos": [
+        "./assets\\produto_14\\foto_1.jpg",
+        "./assets\\produto_14\\foto_2.jpg",
+        "./assets\\produto_14\\foto_3.jpg",
+        "./assets\\produto_14\\foto_4.jpg",
+        "./assets\\produto_14\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 15,
+      "titulo": "Ladies Audemars Piguet Royal Oak Diamond Bezel",
+      "referencia": "N/A",
+      "preco": "$29,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/ladies-audemars-piguet-royal-oak-diamond-bezel.html",
+      "fotos": [
+        "./assets\\produto_15\\foto_1.jpg",
+        "./assets\\produto_15\\foto_2.jpg",
+        "./assets\\produto_15\\foto_3.jpg",
+        "./assets\\produto_15\\foto_4.jpg",
+        "./assets\\produto_15\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 16,
+      "titulo": "Audemars Piguet Royal Oak Black Ceramic",
+      "referencia": "N/A",
+      "preco": "$58,595",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-black-ceramic.html",
+      "fotos": [
+        "./assets\\produto_16\\foto_1.jpg",
+        "./assets\\produto_16\\foto_2.jpg",
+        "./assets\\produto_16\\foto_3.jpg",
+        "./assets\\produto_16\\foto_4.jpg",
+        "./assets\\produto_16\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 17,
+      "titulo": "Audemars Piguet Royal Oak Rose Gold & Tantalum",
+      "referencia": "N/A",
+      "preco": "$29,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-rose-gold-and-tantalum.html",
+      "fotos": [
+        "./assets\\produto_17\\foto_1.jpg",
+        "./assets\\produto_17\\foto_2.jpg",
+        "./assets\\produto_17\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 18,
+      "titulo": "Audemars Piguet Royal Oak Selfwinding Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$29,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-selfwinding-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_18\\foto_1.jpg",
+        "./assets\\produto_18\\foto_2.jpg",
+        "./assets\\produto_18\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 19,
+      "titulo": "Audemars Piguet Edward Piguet 18k Rose Gold",
+      "referencia": "N/A",
+      "preco": "$39,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-edward-piguet-18k-rose-gold.html",
+      "fotos": [
+        "./assets\\produto_19\\foto_1.jpg",
+        "./assets\\produto_19\\foto_2.jpg",
+        "./assets\\produto_19\\foto_3.jpg",
+        "./assets\\produto_19\\foto_4.jpg",
+        "./assets\\produto_19\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 20,
+      "titulo": "Pre-Owned Audemars Piguet Royal Oak Offshore Titanium",
+      "referencia": "N/A",
+      "preco": "$21,495",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-offshore-titanium.html",
+      "fotos": [
+        "./assets\\produto_20\\foto_1.jpg",
+        "./assets\\produto_20\\foto_2.jpg",
+        "./assets\\produto_20\\foto_3.jpg",
+        "./assets\\produto_20\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 21,
+      "titulo": "Mens Audemars Piguet Royal Oak Blue Dial",
+      "referencia": "N/A",
+      "preco": "$29,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/mens-audemars-piguet-royal-oak-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_21\\foto_1.jpg",
+        "./assets\\produto_21\\foto_2.jpg",
+        "./assets\\produto_21\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 22,
+      "titulo": "Audemars Piguet Royal Oak Silver Dial",
+      "referencia": "N/A",
+      "preco": "$29,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-silver-dial.html",
+      "fotos": [
+        "./assets\\produto_22\\foto_1.jpg",
+        "./assets\\produto_22\\foto_2.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 23,
+      "titulo": "Audemars Piguet Code 11:59 Burgundy Dial",
+      "referencia": "N/A",
+      "preco": "$39,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-code-1159-burgundy-dial.html",
+      "fotos": [
+        "./assets\\produto_23\\foto_1.jpg",
+        "./assets\\produto_23\\foto_2.jpg",
+        "./assets\\produto_23\\foto_3.jpg",
+        "./assets\\produto_23\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 24,
+      "titulo": "Pre-Owned Audemars Piguet Royal Oak 18k Rose Gold",
+      "referencia": "N/A",
+      "preco": "$49,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-18k-rose-gold.html",
+      "fotos": [
+        "./assets\\produto_24\\foto_1.jpg",
+        "./assets\\produto_24\\foto_2.jpg",
+        "./assets\\produto_24\\foto_3.jpg",
+        "./assets\\produto_24\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 25,
+      "titulo": "Mens Audemars Piguet Royal Oak Offshore Titanium",
+      "referencia": "N/A",
+      "preco": "$21,495",
+      "url": "https://www.bobswatches.com/audemars-piguet/mens-audemars-piguet-royal-oak-offshore-titanium.html",
+      "fotos": [
+        "./assets\\produto_25\\foto_1.jpg",
+        "./assets\\produto_25\\foto_2.jpg",
+        "./assets\\produto_25\\foto_3.jpg",
+        "./assets\\produto_25\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 26,
+      "titulo": "Audemars Piguet Millenary 4101 Stainless Steel",
+      "referencia": "4101",
+      "preco": "$39,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-millenary-4101-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_26\\foto_1.jpg",
+        "./assets\\produto_26\\foto_2.jpg",
+        "./assets\\produto_26\\foto_3.jpg",
+        "./assets\\produto_26\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 27,
+      "titulo": "Audemars Piguet Royal Oak Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$49,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_27\\foto_1.jpg",
+        "./assets\\produto_27\\foto_2.jpg",
+        "./assets\\produto_27\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 28,
+      "titulo": "Pre-Owned Audemars Piguet Royal Oak Offshore",
+      "referencia": "N/A",
+      "preco": "$21,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-offshore.html",
+      "fotos": [
+        "./assets\\produto_28\\foto_1.jpg",
+        "./assets\\produto_28\\foto_2.jpg",
+        "./assets\\produto_28\\foto_3.jpg",
+        "./assets\\produto_28\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 29,
+      "titulo": "Audemars Piguet Royal Oak Chronograph Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$39,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-chronograph-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_29\\foto_1.jpg",
+        "./assets\\produto_29\\foto_2.jpg",
+        "./assets\\produto_29\\foto_3.jpg",
+        "./assets\\produto_29\\foto_4.jpg",
+        "./assets\\produto_29\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 30,
+      "titulo": "Audemars Piguet Royal Oak Offshore Chronograph 18k Rose Gold",
+      "referencia": "N/A",
+      "preco": "$39,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-chronograph-18k-rose-gold.html",
+      "fotos": [
+        "./assets\\produto_30\\foto_1.jpg",
+        "./assets\\produto_30\\foto_2.jpg",
+        "./assets\\produto_30\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 31,
+      "titulo": "Audemars Piguet Royal Oak 18k Rose Gold",
+      "referencia": "N/A",
+      "preco": "$29,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-18k-rose-gold.html",
+      "fotos": [
+        "./assets\\produto_31\\foto_1.jpg",
+        "./assets\\produto_31\\foto_2.jpg",
+        "./assets\\produto_31\\foto_3.jpg",
+        "./assets\\produto_31\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 32,
+      "titulo": "Audemars Piguet Royal Oak Grey Ruthenium Dial",
+      "referencia": "N/A",
+      "preco": "$39,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-grey-ruthenium-dial.html",
+      "fotos": [
+        "./assets\\produto_32\\foto_1.jpg",
+        "./assets\\produto_32\\foto_2.jpg",
+        "./assets\\produto_32\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 33,
+      "titulo": "Audemars Piguet Royal Oak Offshore Light Brown Mega Tapisserie Dial",
+      "referencia": "N/A",
+      "preco": "$57,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-light-brown-mega-tapisserie-dial.html",
+      "fotos": [
+        "./assets\\produto_33\\foto_1.jpg",
+        "./assets\\produto_33\\foto_2.jpg",
+        "./assets\\produto_33\\foto_3.jpg",
+        "./assets\\produto_33\\foto_4.jpg",
+        "./assets\\produto_33\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 34,
+      "titulo": "Audemars Piguet Royal Oak \"Jumbo\" Extra Thin",
+      "referencia": "N/A",
+      "preco": "$39,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-jumbo-extra-thin.html",
+      "fotos": [
+        "./assets\\produto_34\\foto_1.jpg",
+        "./assets\\produto_34\\foto_2.jpg",
+        "./assets\\produto_34\\foto_3.jpg",
+        "./assets\\produto_34\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 35,
+      "titulo": "Audemars Piguet Royal Oak Grande Tapisserie Dial",
+      "referencia": "N/A",
+      "preco": "$29,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-grande-tapisserie-dial.html",
+      "fotos": [
+        "./assets\\produto_35\\foto_1.jpg",
+        "./assets\\produto_35\\foto_2.jpg",
+        "./assets\\produto_35\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 36,
+      "titulo": "Pre-Owned Audemars Piguet Royal Oak Offshore Chronograph Ivory Dial",
+      "referencia": "N/A",
+      "preco": "$21,495",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-offshore-chronograph-ivory-dial.html",
+      "fotos": [
+        "./assets\\produto_36\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 37,
+      "titulo": "Audemars Piguet Royal Oak Selfwinding 18k White Gold",
+      "referencia": "N/A",
+      "preco": "$1,095",
+      "url": "https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-selfwinding-18k-white-gold.html",
+      "fotos": [
+        "./assets\\produto_37\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 38,
+      "titulo": "Pre-Owned Audemars Piguet Royal Oak Offshore Chronograph Blue Dial",
+      "referencia": "N/A",
+      "preco": "$6,995",
+      "url": "https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-offshore-chronograph-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_38\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 39,
+      "titulo": "Audemars Piguet Royal Oak",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/audemars-piguet/royal-oak-1.html",
+      "fotos": [
+        "./assets\\produto_39\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 40,
+      "titulo": "Audemars Piguet Royal Oak Offshore",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/audemars-piguet/royal-oak-offshore-1.html",
+      "fotos": [
+        "./assets\\produto_40\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 41,
+      "titulo": "Code 11.59 by Audemars Piguet",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/audemars-piguet/code-1159-1.html",
+      "fotos": [
+        "./assets\\produto_41\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 42,
+      "titulo": "Audemars Piguet Millenary",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/audemars-piguet/millenary-1.html",
+      "fotos": [
+        "./assets\\produto_42\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 43,
+      "titulo": "Jules Audemars",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/audemars-piguet/jules-audemars-1.html",
+      "fotos": [
+        "./assets\\produto_43\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 44,
+      "titulo": "Audemars Piguet Edward Piguet",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/audemars-piguet/edward-piguet-1.html",
+      "fotos": [
+        "./assets\\produto_44\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 45,
+      "titulo": "Audemars Piguet Royal Oak Offshore Chronograph",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/audemars-piguet/royal-oak-offshore-chronograph-1.html",
+      "fotos": [
+        "./assets\\produto_45\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 46,
+      "titulo": "Audemars Piguet Haute Joaillerie",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/audemars-piguet/haute-joaillerie-1.html",
+      "fotos": [
+        "./assets\\produto_46\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 47,
+      "titulo": "Audemars Piguet Promesse",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/audemars-piguet/promesse-1.html",
+      "fotos": [
+        "./assets\\produto_47\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 48,
+      "titulo": "OMEGA Speedmaster",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/omega/speedmaster-1.html",
+      "fotos": [
+        "./assets\\produto_48\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 49,
+      "titulo": "OMEGA Seamaster Watches",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/omega/seamaster-1.html",
+      "fotos": [
+        "./assets\\produto_49\\foto_1.jpg"
+      ],
+      "specs": {
+        "seamaster diver 300m bronze gold": "42mm bronze-gold case, burgundy bezel, mesh bracelet option",
+        "seamaster planet ocean worldtimer": "45.5mm ceramic case, laser-ablated Earth dial, dual time zones",
+        "seamaster railmaster (refreshed)": "38mm steel case, gradient dials, center/small seconds options",
+        "seamaster diver 300m orange": "Steel case, orange accents, no-date configuration",
+        "seamaster milano cortina 2026": "37mm Moonshine Gold, Olympic commemorative edition",
+        "aqua terra 30mm": "Compact 10.6mm case, 150m water resistance, Calibre 8750/8751 movements, 12 references available"
+      }
+    },
+    {
+      "id": 50,
+      "titulo": "OMEGA Constellation",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/omega/constellation-1.html",
+      "fotos": [
+        "./assets\\produto_50\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 51,
+      "titulo": "OMEGA De Ville",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/omega/de-ville-1.html",
+      "fotos": [
+        "./assets\\produto_51\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 52,
+      "titulo": "Vintage OMEGA Watches",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/omega/vintage-1.html",
+      "fotos": [
+        "./assets\\produto_52\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 53,
+      "titulo": "OMEGA Watch from James Bond",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/omega/james-bond-omega-watch-1.html",
+      "fotos": [
+        "./assets\\produto_53\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 54,
+      "titulo": "Pre-Owned Omega Seamaster Aqua Terra 150M White Chronograph Dial",
+      "referencia": "N/A",
+      "preco": "$4,495",
+      "url": "https://www.bobswatches.com/omega/pre-owned-omega-seamaster-aqua-terra-150m-white-chronograph-dial.html",
+      "fotos": [
+        "./assets\\produto_54\\foto_1.jpg",
+        "./assets\\produto_54\\foto_2.jpg",
+        "./assets\\produto_54\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 55,
+      "titulo": "Used Blue Dial Omega Speedmaster '57",
+      "referencia": "N/A",
+      "preco": "$8,195",
+      "url": "https://www.bobswatches.com/omega/used-blue-dial-omega-speedmaster-57.html",
+      "fotos": [
+        "./assets\\produto_55\\foto_1.jpg",
+        "./assets\\produto_55\\foto_2.jpg",
+        "./assets\\produto_55\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 56,
+      "titulo": "Pre-Owned Steel on Rubber Omega Seamaster Silver Dial Aqua Terra",
+      "referencia": "N/A",
+      "preco": "$5,895",
+      "url": "https://www.bobswatches.com/omega/pre-owned-steel-on-rubber-omega-seamaster-silver-dial-aqua-terra.html",
+      "fotos": [
+        "./assets\\produto_56\\foto_1.jpg",
+        "./assets\\produto_56\\foto_2.jpg",
+        "./assets\\produto_56\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 57,
+      "titulo": "Omega Speedmaster From Moon To Mars Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$8,995",
+      "url": "https://www.bobswatches.com/omega/omega-speedmaster-from-moon-to-mars-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_57\\foto_1.jpg",
+        "./assets\\produto_57\\foto_2.jpg",
+        "./assets\\produto_57\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 58,
+      "titulo": "Omega Seamaster Railmaster 38MM Steel on Leather",
+      "referencia": "N/A",
+      "preco": "$5,995",
+      "url": "https://www.bobswatches.com/omega/omega-seamaster-railmaster-38mm-steel-on-leather.html",
+      "fotos": [
+        "./assets\\produto_58\\foto_1.jpg",
+        "./assets\\produto_58\\foto_2.jpg",
+        "./assets\\produto_58\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 59,
+      "titulo": "Pre-Owned Omega Seamaster Diver 300M Bronze Gold on Titanium",
+      "referencia": "N/A",
+      "preco": "$10,795",
+      "url": "https://www.bobswatches.com/omega/pre-owned-omega-seamaster-diver-300m-bronze-gold-on-titanium.html",
+      "fotos": [
+        "./assets\\produto_59\\foto_1.jpg",
+        "./assets\\produto_59\\foto_2.jpg",
+        "./assets\\produto_59\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 60,
+      "titulo": "Omega Speedmaster Two Counters Titanium",
+      "referencia": "N/A",
+      "preco": "$7,595",
+      "url": "https://www.bobswatches.com/omega/omega-speedmaster-two-counters-titanium.html",
+      "fotos": [
+        "./assets\\produto_60\\foto_1.jpg",
+        "./assets\\produto_60\\foto_2.jpg",
+        "./assets\\produto_60\\foto_3.jpg",
+        "./assets\\produto_60\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 61,
+      "titulo": "Pre-Owned Omega Seamaster Orange Bezel Planet Ocean 6000M O-MEGASTEEL",
+      "referencia": "6000M",
+      "preco": "$10,995",
+      "url": "https://www.bobswatches.com/omega/pre-owned-omega-seamaster-orange-bezel-planet-ocean-6000m-o-megasteel.html",
+      "fotos": [
+        "./assets\\produto_61\\foto_1.jpg",
+        "./assets\\produto_61\\foto_2.jpg",
+        "./assets\\produto_61\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 62,
+      "titulo": "Used Omega Constellation Champagne Diamond Dial",
+      "referencia": "N/A",
+      "preco": "$1,995",
+      "url": "https://www.bobswatches.com/omega/used-omega-constellation-champagne-diamond-dial.html",
+      "fotos": [
+        "./assets\\produto_62\\foto_1.jpg",
+        "./assets\\produto_62\\foto_2.jpg",
+        "./assets\\produto_62\\foto_3.jpg",
+        "./assets\\produto_62\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 63,
+      "titulo": "Pre-Owned Stainless Steel Omega Speedmaster Racing Black Dial",
+      "referencia": "N/A",
+      "preco": "$7,495",
+      "url": "https://www.bobswatches.com/omega/pre-owned-stainless-steel-omega-speedmaster-racing-black-dial.html",
+      "fotos": [
+        "./assets\\produto_63\\foto_1.jpg",
+        "./assets\\produto_63\\foto_2.jpg",
+        "./assets\\produto_63\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 64,
+      "titulo": "Used Omega Constellation Mother of Pearl Dial & Diamond Bezel",
+      "referencia": "N/A",
+      "preco": "$2,995",
+      "url": "https://www.bobswatches.com/omega/used-omega-constellation-mother-of-pearl-dial-and-diamond-bezel.html",
+      "fotos": [
+        "./assets\\produto_64\\foto_1.jpg",
+        "./assets\\produto_64\\foto_2.jpg",
+        "./assets\\produto_64\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 65,
+      "titulo": "Vintage Yellow Gold Omega Cocktail Champagne Dial",
+      "referencia": "N/A",
+      "preco": "$3,795",
+      "url": "https://www.bobswatches.com/omega/vintage-yellow-gold-omega-cocktail-champagne-dial.html",
+      "fotos": [
+        "./assets\\produto_65\\foto_1.jpg",
+        "./assets\\produto_65\\foto_2.jpg",
+        "./assets\\produto_65\\foto_3.jpg",
+        "./assets\\produto_65\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 66,
+      "titulo": "Pre-Owned Omega Seamaster Planet Ocean Titanium Dial",
+      "referencia": "N/A",
+      "preco": "$6,995",
+      "url": "https://www.bobswatches.com/omega/pre-owned-omega-seamaster-planet-ocean-titanium-dial.html",
+      "fotos": [
+        "./assets\\produto_66\\foto_1.jpg",
+        "./assets\\produto_66\\foto_2.jpg",
+        "./assets\\produto_66\\foto_3.jpg",
+        "./assets\\produto_66\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 67,
+      "titulo": "Pre-Owned Omega Seamaster Diver Co-Axial",
+      "referencia": "N/A",
+      "preco": "$10,795",
+      "url": "https://www.bobswatches.com/omega/pre-owned-omega-seamaster-diver-co-axial.html",
+      "fotos": [
+        "./assets\\produto_67\\foto_1.jpg",
+        "./assets\\produto_67\\foto_2.jpg",
+        "./assets\\produto_67\\foto_3.jpg",
+        "./assets\\produto_67\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 68,
+      "titulo": "Pre-Owned Omega Planet Ocean 600M Blue Seamaster",
+      "referencia": "N/A",
+      "preco": "$7,495",
+      "url": "https://www.bobswatches.com/omega/pre-owned-omega-planet-ocean-600m-blue-seamaster.html",
+      "fotos": [
+        "./assets\\produto_68\\foto_1.jpg",
+        "./assets\\produto_68\\foto_2.jpg",
+        "./assets\\produto_68\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 69,
+      "titulo": "Pre-Owned Omega Speedmaster Dark Side of the Moon Black Ceramic",
+      "referencia": "N/A",
+      "preco": "$10,295",
+      "url": "https://www.bobswatches.com/omega/pre-owned-omega-speedmaster-dark-side-of-the-moon-black-ceramic.html",
+      "fotos": [
+        "./assets\\produto_69\\foto_1.jpg",
+        "./assets\\produto_69\\foto_2.jpg",
+        "./assets\\produto_69\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 70,
+      "titulo": "Pre-Owned Burgundy Dial Omega Speedmaster '57",
+      "referencia": "N/A",
+      "preco": "$7,595",
+      "url": "https://www.bobswatches.com/omega/pre-owned-burgundy-dial-omega-speedmaster-57.html",
+      "fotos": [
+        "./assets\\produto_70\\foto_1.jpg",
+        "./assets\\produto_70\\foto_2.jpg",
+        "./assets\\produto_70\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 71,
+      "titulo": "Pre-Owned Omega Speedmaster Legend Stainless Steel on Rubber",
+      "referencia": "N/A",
+      "preco": "$5,195",
+      "url": "https://www.bobswatches.com/omega/pre-owned-omega-speedmaster-legend-stainless-steel-on-rubber.html",
+      "fotos": [
+        "./assets\\produto_71\\foto_1.jpg",
+        "./assets\\produto_71\\foto_2.jpg",
+        "./assets\\produto_71\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 72,
+      "titulo": "Pre-Owned Black Dial Omega Speedmaster Moonphase Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$8,595",
+      "url": "https://www.bobswatches.com/omega/pre-owned-black-dial-omega-speedmaster-moonphase-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_72\\foto_1.jpg",
+        "./assets\\produto_72\\foto_2.jpg",
+        "./assets\\produto_72\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 73,
+      "titulo": "Pre-Owned Steel on Rubber Omega Seamaster Black Dial",
+      "referencia": "N/A",
+      "preco": "$3,995",
+      "url": "https://www.bobswatches.com/omega/pre-owned-steel-on-rubber-omega-seamaster-black-dial.html",
+      "fotos": [
+        "./assets\\produto_73\\foto_1.jpg",
+        "./assets\\produto_73\\foto_2.jpg",
+        "./assets\\produto_73\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 74,
+      "titulo": "Pre-Owned Black Ceramic Omega Seamaster Planet Ocean 600M",
+      "referencia": "N/A",
+      "preco": "$9,195",
+      "url": "https://www.bobswatches.com/omega/pre-owned-black-ceramic-omega-seamaster-planet-ocean-600m.html",
+      "fotos": [
+        "./assets\\produto_74\\foto_1.jpg",
+        "./assets\\produto_74\\foto_2.jpg",
+        "./assets\\produto_74\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 75,
+      "titulo": "Pre-Owned Blue Wave Dial Omega Seamaster Quartz",
+      "referencia": "N/A",
+      "preco": "$3,395",
+      "url": "https://www.bobswatches.com/omega/pre-owned-blue-wave-dial-omega-seamaster-quartz.html",
+      "fotos": [
+        "./assets\\produto_75\\foto_1.jpg",
+        "./assets\\produto_75\\foto_2.jpg",
+        "./assets\\produto_75\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 76,
+      "titulo": "Used Omega Seamaster Diver 300M Black Dial",
+      "referencia": "N/A",
+      "preco": "$4,995",
+      "url": "https://www.bobswatches.com/omega/used-omega-seamaster-diver-300m-black-dial.html",
+      "fotos": [
+        "./assets\\produto_76\\foto_1.jpg",
+        "./assets\\produto_76\\foto_2.jpg",
+        "./assets\\produto_76\\foto_3.jpg",
+        "./assets\\produto_76\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 77,
+      "titulo": "Used 007 Edition Tropical Dial Omega Seamaster Diver 300M",
+      "referencia": "N/A",
+      "preco": "$8,995",
+      "url": "https://www.bobswatches.com/omega/used-007-edition-tropical-dial-omega-seamaster-diver-300m.html",
+      "fotos": [
+        "./assets\\produto_77\\foto_1.jpg",
+        "./assets\\produto_77\\foto_2.jpg",
+        "./assets\\produto_77\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 78,
+      "titulo": "Pre-Owned Blue Dial Omega Seamaster Planet Ocean 600M Titanium",
+      "referencia": "N/A",
+      "preco": "$5,295",
+      "url": "https://www.bobswatches.com/omega/pre-owned-blue-dial-omega-seamaster-planet-ocean-600m-titanium.html",
+      "fotos": [
+        "./assets\\produto_78\\foto_1.jpg",
+        "./assets\\produto_78\\foto_2.jpg",
+        "./assets\\produto_78\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 79,
+      "titulo": "Pre-Owned Blue Dial Omega Seamaster Aqua Terra 150M Steel",
+      "referencia": "N/A",
+      "preco": "$5,495",
+      "url": "https://www.bobswatches.com/omega/pre-owned-blue-dial-omega-seamaster-aqua-terra-150m-steel.html",
+      "fotos": [
+        "./assets\\produto_79\\foto_1.jpg",
+        "./assets\\produto_79\\foto_2.jpg",
+        "./assets\\produto_79\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 80,
+      "titulo": "Used Black Dial Omega Speedmaster Moonwatch Professional Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$6,195",
+      "url": "https://www.bobswatches.com/omega/used-black-dial-omega-speedmaster-moonwatch-professional-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_80\\foto_1.jpg",
+        "./assets\\produto_80\\foto_2.jpg",
+        "./assets\\produto_80\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 81,
+      "titulo": "Pre-Owned Steel on Steel Omega Speedmaster Moonwatch Professional",
+      "referencia": "N/A",
+      "preco": "$7,595",
+      "url": "https://www.bobswatches.com/omega/pre-owned-steel-on-steel-omega-speedmaster-moonwatch-professional.html",
+      "fotos": [
+        "./assets\\produto_81\\foto_1.jpg",
+        "./assets\\produto_81\\foto_2.jpg",
+        "./assets\\produto_81\\foto_3.jpg",
+        "./assets\\produto_81\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 82,
+      "titulo": "Tissot PRS 516 Automatic Chronograph Blue Dial",
+      "referencia": "N/A",
+      "preco": "$1,395",
+      "url": "https://www.bobswatches.com/tissot/tissot-prs-516-automatic-chronograph-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_82\\foto_1.jpg",
+        "./assets\\produto_82\\foto_2.jpg",
+        "./assets\\produto_82\\foto_3.jpg",
+        "./assets\\produto_82\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 83,
+      "titulo": "Tissot Heritage 1973 Stainless Steel",
+      "referencia": "1973",
+      "preco": "$1,295",
+      "url": "https://www.bobswatches.com/tissot/tissot-heritage-1973-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_83\\foto_1.jpg",
+        "./assets\\produto_83\\foto_2.jpg",
+        "./assets\\produto_83\\foto_3.jpg",
+        "./assets\\produto_83\\foto_4.jpg",
+        "./assets\\produto_83\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 84,
+      "titulo": "Tissot Heritage Navigator Automatic 160th Anniversary COSC Silver Dial",
+      "referencia": "N/A",
+      "preco": "$1,095",
+      "url": "https://www.bobswatches.com/tissot/tissot-heritage-navigator-automatic-160th-anniversary-cosc-silver-dial.html",
+      "fotos": [
+        "./assets\\produto_84\\foto_1.jpg",
+        "./assets\\produto_84\\foto_2.jpg",
+        "./assets\\produto_84\\foto_3.jpg",
+        "./assets\\produto_84\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 85,
+      "titulo": "Tissot Heritage Porto Mechanical Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$645",
+      "url": "https://www.bobswatches.com/tissot/tissot-heritage-porto-mechanical-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_85\\foto_1.jpg",
+        "./assets\\produto_85\\foto_2.jpg",
+        "./assets\\produto_85\\foto_3.jpg",
+        "./assets\\produto_85\\foto_4.jpg",
+        "./assets\\produto_85\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 86,
+      "titulo": "Tissot PRS 516 Automatic Chronograph Black Arabic Dial",
+      "referencia": "N/A",
+      "preco": "$1,295",
+      "url": "https://www.bobswatches.com/tissot/tissot-prs-516-automatic-chronograph-black-arabic-dial.html",
+      "fotos": [
+        "./assets\\produto_86\\foto_1.jpg",
+        "./assets\\produto_86\\foto_2.jpg",
+        "./assets\\produto_86\\foto_3.jpg",
+        "./assets\\produto_86\\foto_4.jpg",
+        "./assets\\produto_86\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 87,
+      "titulo": "Tissot PRS 516 Automatic Chronograph",
+      "referencia": "N/A",
+      "preco": "$1,345",
+      "url": "https://www.bobswatches.com/tissot/tissot-prs-516-automatic-chronograph.html",
+      "fotos": [
+        "./assets\\produto_87\\foto_1.jpg",
+        "./assets\\produto_87\\foto_2.jpg",
+        "./assets\\produto_87\\foto_3.jpg",
+        "./assets\\produto_87\\foto_4.jpg",
+        "./assets\\produto_87\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 88,
+      "titulo": "Tissot T-Race Automatic Chronograph Black Dial",
+      "referencia": "N/A",
+      "preco": "$845",
+      "url": "https://www.bobswatches.com/tissot/tissot-t-race-automatic-chronograph-black-dial.html",
+      "fotos": [
+        "./assets\\produto_88\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 89,
+      "titulo": "Tissot Bridgeport Chronograph Black Diamond Dial",
+      "referencia": "N/A",
+      "preco": "$1,395",
+      "url": "https://www.bobswatches.com/tissot/tissot-bridgeport-chronograph-black-diamond-dial.html",
+      "fotos": [
+        "./assets\\produto_89\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 90,
+      "titulo": "Tissot Bridgeport Automatic Valjoux Lady T71.1.480.76",
+      "referencia": "N/A",
+      "preco": "$1,395",
+      "url": "https://www.bobswatches.com/tissot/tissot-bridgeport-automatic-valjoux-lady-t71148076.html",
+      "fotos": [
+        "./assets\\produto_90\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 91,
+      "titulo": "Tissot Bridgeport Automatic T71.1.479.76",
+      "referencia": "N/A",
+      "preco": "$1,395",
+      "url": "https://www.bobswatches.com/tissot/tissot-bridgeport-automatic-t71147976.html",
+      "fotos": [
+        "./assets\\produto_91\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 92,
+      "titulo": "Tissot Seastar",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/tissot/seastar-1.html",
+      "fotos": [
+        "./assets\\produto_92\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 93,
+      "titulo": "Tissot Le Locle",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/tissot/le-locle-1.html",
+      "fotos": [
+        "./assets\\produto_93\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 94,
+      "titulo": "Tissot Heritage",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/tissot/heritage-1.html",
+      "fotos": [
+        "./assets\\produto_94\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 95,
+      "titulo": "Tissot T-Race",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/tissot/t-race-1.html",
+      "fotos": [
+        "./assets\\produto_95\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 96,
+      "titulo": "Tissot Couturier",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/tissot/couturier-1.html",
+      "fotos": [],
+      "specs": {}
+    },
+    {
+      "id": 97,
+      "titulo": "Tissot Carson",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/tissot/carson-1.html",
+      "fotos": [],
+      "specs": {}
+    },
+    {
+      "id": 98,
+      "titulo": "Tissot PRS 516",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/tissot/prs-516-1.html",
+      "fotos": [
+        "./assets\\produto_98\\foto_1.jpg",
+        "./assets\\produto_98\\foto_2.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 99,
+      "titulo": "Tissot Bridgeport",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/tissot/bridgeport-1.html",
+      "fotos": [
+        "./assets\\produto_99\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 100,
+      "titulo": "Tissot Classic",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/tissot/classic-1.html",
+      "fotos": [
+        "./assets\\produto_100\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 101,
+      "titulo": "Tissot 1853",
+      "referencia": "1853",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/tissot/1853-1.html",
+      "fotos": [
+        "./assets\\produto_101\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 102,
+      "titulo": "Tissot T-Touch",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/tissot/t-touch-1.html",
+      "fotos": [
+        "./assets\\produto_102\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 103,
+      "titulo": "Tissot T-Sport",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/tissot/t-sport-1.html",
+      "fotos": [],
+      "specs": {}
+    },
+    {
+      "id": 104,
+      "titulo": "Pre-Owned Black Dial Breitling Colt Black Dial",
+      "referencia": "N/A",
+      "preco": "$2,695",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-black-dial-breitling-colt-black-dial.html",
+      "fotos": [
+        "./assets\\produto_104\\foto_1.jpg",
+        "./assets\\produto_104\\foto_2.jpg",
+        "./assets\\produto_104\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 105,
+      "titulo": "Pre-Owned Breitling Montbrillant 01 Blue Index Dial",
+      "referencia": "N/A",
+      "preco": "$7,995",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-montbrillant-01-blue-index-dial.html",
+      "fotos": [
+        "./assets\\produto_105\\foto_1.jpg",
+        "./assets\\produto_105\\foto_2.jpg",
+        "./assets\\produto_105\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 106,
+      "titulo": "Pre-Owned Breitling Superocean 44 Black Luminous Dial",
+      "referencia": "N/A",
+      "preco": "$3,295",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-superocean-44-black-luminous-dial.html",
+      "fotos": [
+        "./assets\\produto_106\\foto_1.jpg",
+        "./assets\\produto_106\\foto_2.jpg",
+        "./assets\\produto_106\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 107,
+      "titulo": "Pre-Owned Breitling Premier B09 Chronograph 40 Green Dial",
+      "referencia": "N/A",
+      "preco": "$6,995",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-premier-b09-chronograph-40-green-dial.html",
+      "fotos": [
+        "./assets\\produto_107\\foto_1.jpg",
+        "./assets\\produto_107\\foto_2.jpg",
+        "./assets\\produto_107\\foto_3.jpg",
+        "./assets\\produto_107\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 108,
+      "titulo": "Pre-Owned Breitling Chronomat B01 42 Anthracite Dial",
+      "referencia": "N/A",
+      "preco": "$8,795",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-chronomat-b01-42-anthracite-dial.html",
+      "fotos": [
+        "./assets\\produto_108\\foto_1.jpg",
+        "./assets\\produto_108\\foto_2.jpg",
+        "./assets\\produto_108\\foto_3.jpg",
+        "./assets\\produto_108\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 109,
+      "titulo": "Pre-Owned Breitling Super Avenger Chronograph White Arabic Dial",
+      "referencia": "N/A",
+      "preco": "$3,695",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-super-avenger-chronograph-white-arabic-dial.html",
+      "fotos": [
+        "./assets\\produto_109\\foto_1.jpg",
+        "./assets\\produto_109\\foto_2.jpg",
+        "./assets\\produto_109\\foto_3.jpg",
+        "./assets\\produto_109\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 110,
+      "titulo": "Pre-Owned Breitling Chrono Colt Quartz Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$1,695",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-chrono-colt-quartz-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_110\\foto_1.jpg",
+        "./assets\\produto_110\\foto_2.jpg",
+        "./assets\\produto_110\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 111,
+      "titulo": "Men's Breitling Super Avenger Chronograph White Arabic Dial",
+      "referencia": "N/A",
+      "preco": "$3,695",
+      "url": "https://www.bobswatches.com/breitling/mens-breitling-super-avenger-chronograph-white-arabic-dial.html",
+      "fotos": [
+        "./assets\\produto_111\\foto_1.jpg",
+        "./assets\\produto_111\\foto_2.jpg",
+        "./assets\\produto_111\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 112,
+      "titulo": "Pre-Owned Breitling Chronomat Automatic 36 Blue Index Dial",
+      "referencia": "N/A",
+      "preco": "$4,695",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-chronomat-automatic-36-blue-index-dial.html",
+      "fotos": [
+        "./assets\\produto_112\\foto_1.jpg",
+        "./assets\\produto_112\\foto_2.jpg",
+        "./assets\\produto_112\\foto_3.jpg",
+        "./assets\\produto_112\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 113,
+      "titulo": "Used Breitling Superocean Heritage B01 Chronograph 44 Limited Edition",
+      "referencia": "N/A",
+      "preco": "$8,995",
+      "url": "https://www.bobswatches.com/breitling/used-breitling-superocean-heritage-b01-chronograph-44-limited-edition.html",
+      "fotos": [
+        "./assets\\produto_113\\foto_1.jpg",
+        "./assets\\produto_113\\foto_2.jpg",
+        "./assets\\produto_113\\foto_3.jpg",
+        "./assets\\produto_113\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 114,
+      "titulo": "Breitling Chronomat B01 42 Ice Blue Dial",
+      "referencia": "N/A",
+      "preco": "$8,495",
+      "url": "https://www.bobswatches.com/breitling/breitling-chronomat-b01-42-ice-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_114\\foto_1.jpg",
+        "./assets\\produto_114\\foto_2.jpg",
+        "./assets\\produto_114\\foto_3.jpg",
+        "./assets\\produto_114\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 115,
+      "titulo": "Breitling Superocean Heritage B20 Two Tone Automatic 42 Blue Dial",
+      "referencia": "N/A",
+      "preco": "$4,295",
+      "url": "https://www.bobswatches.com/breitling/breitling-superocean-heritage-b20-two-tone-automatic-42-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_115\\foto_1.jpg",
+        "./assets\\produto_115\\foto_2.jpg",
+        "./assets\\produto_115\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 116,
+      "titulo": "Pre-Owned Breitling Chronomat Evolution 44 Silver Dial",
+      "referencia": "N/A",
+      "preco": "$7,495",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-chronomat-evolution-44-silver-dial.html",
+      "fotos": [
+        "./assets\\produto_116\\foto_1.jpg",
+        "./assets\\produto_116\\foto_2.jpg",
+        "./assets\\produto_116\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 117,
+      "titulo": "Pre-Owned Breitling SuperOcean Stainless Steel Black Arabic Dial",
+      "referencia": "N/A",
+      "preco": "$2,995",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-superocean-stainless-steel-black-arabic-dial.html",
+      "fotos": [
+        "./assets\\produto_117\\foto_1.jpg",
+        "./assets\\produto_117\\foto_2.jpg",
+        "./assets\\produto_117\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 118,
+      "titulo": "Pre-Owned Breitling Bentley Flying B Brown Leather Strap",
+      "referencia": "N/A",
+      "preco": "$4,595",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-bentley-flying-b-brown-leather-strap.html",
+      "fotos": [
+        "./assets\\produto_118\\foto_1.jpg",
+        "./assets\\produto_118\\foto_2.jpg",
+        "./assets\\produto_118\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 119,
+      "titulo": "Used Breitling Chronomat White Dial",
+      "referencia": "N/A",
+      "preco": "$3,495",
+      "url": "https://www.bobswatches.com/breitling/used-breitling-chronomat-white-dial.html",
+      "fotos": [
+        "./assets\\produto_119\\foto_1.jpg",
+        "./assets\\produto_119\\foto_2.jpg",
+        "./assets\\produto_119\\foto_3.jpg",
+        "./assets\\produto_119\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 120,
+      "titulo": "Pre-Owned Breitling Premier B01 Chronograph 42 Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$5,395",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-premier-b01-chronograph-42-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_120\\foto_1.jpg",
+        "./assets\\produto_120\\foto_2.jpg",
+        "./assets\\produto_120\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 121,
+      "titulo": "Pre-Owned Breitling Premier Chronograph 42 Black Dial",
+      "referencia": "N/A",
+      "preco": "$3,995",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-premier-chronograph-42-black-dial.html",
+      "fotos": [
+        "./assets\\produto_121\\foto_1.jpg",
+        "./assets\\produto_121\\foto_2.jpg",
+        "./assets\\produto_121\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 122,
+      "titulo": "Pre-Owned Breitling Superocean Heritage B01 Chronograph 44 Silver Dial",
+      "referencia": "N/A",
+      "preco": "$4,995",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-superocean-heritage-b01-chronograph-44-silver-dial.html",
+      "fotos": [
+        "./assets\\produto_122\\foto_1.jpg",
+        "./assets\\produto_122\\foto_2.jpg",
+        "./assets\\produto_122\\foto_3.jpg",
+        "./assets\\produto_122\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 123,
+      "titulo": "Breitling Aviator 8 B01 Chronograph Grey Dial",
+      "referencia": "N/A",
+      "preco": "$5,995",
+      "url": "https://www.bobswatches.com/breitling/breitling-aviator-8-b01-chronograph-grey-dial.html",
+      "fotos": [
+        "./assets\\produto_123\\foto_1.jpg",
+        "./assets\\produto_123\\foto_2.jpg",
+        "./assets\\produto_123\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 124,
+      "titulo": "Pre-Owned Limited Edition Breitling Superocean Heritage B01 Chronograph 44",
+      "referencia": "N/A",
+      "preco": "$8,995",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-limited-edition-breitling-superocean-heritage-b01-chronograph-44.html",
+      "fotos": [
+        "./assets\\produto_124\\foto_1.jpg",
+        "./assets\\produto_124\\foto_2.jpg",
+        "./assets\\produto_124\\foto_3.jpg",
+        "./assets\\produto_124\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 125,
+      "titulo": "Used Breitling Navitimer B01 Chronograph 46 Blue Index Dial",
+      "referencia": "N/A",
+      "preco": "$5,995",
+      "url": "https://www.bobswatches.com/breitling/used-breitling-navitimer-b01-chronograph-46-blue-index-dial.html",
+      "fotos": [
+        "./assets\\produto_125\\foto_1.jpg",
+        "./assets\\produto_125\\foto_2.jpg",
+        "./assets\\produto_125\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 126,
+      "titulo": "Pre-Owned Breitling Professional Endurance Pro 44 Red Strap",
+      "referencia": "N/A",
+      "preco": "$1,995",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-professional-endurance-pro-44-red-strap.html",
+      "fotos": [
+        "./assets\\produto_126\\foto_1.jpg",
+        "./assets\\produto_126\\foto_2.jpg",
+        "./assets\\produto_126\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 127,
+      "titulo": "Used Breitling Superocean Heritage B31 Automatic 42 Black Dial",
+      "referencia": "N/A",
+      "preco": "$5,995",
+      "url": "https://www.bobswatches.com/breitling/used-breitling-superocean-heritage-b31-automatic-42-black-dial.html",
+      "fotos": [
+        "./assets\\produto_127\\foto_1.jpg",
+        "./assets\\produto_127\\foto_2.jpg",
+        "./assets\\produto_127\\foto_3.jpg",
+        "./assets\\produto_127\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 128,
+      "titulo": "Pre-Owned Breitling Windrider Chrono Cockpit Blue Dial",
+      "referencia": "N/A",
+      "preco": "$2,495",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-windrider-chrono-cockpit-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_128\\foto_1.jpg",
+        "./assets\\produto_128\\foto_2.jpg",
+        "./assets\\produto_128\\foto_3.jpg",
+        "./assets\\produto_128\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 129,
+      "titulo": "Pre-Owned Breitling Airwolf Black Dial US Navy Special Edition",
+      "referencia": "N/A",
+      "preco": "$4,495",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-airwolf-black-dial-us-navy-special-edition.html",
+      "fotos": [
+        "./assets\\produto_129\\foto_1.jpg",
+        "./assets\\produto_129\\foto_2.jpg",
+        "./assets\\produto_129\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 130,
+      "titulo": "Copper Dial Breitling Premier B01 Chronograph 42",
+      "referencia": "N/A",
+      "preco": "$5,995",
+      "url": "https://www.bobswatches.com/breitling/copper-dial-breitling-premier-b01-chronograph-42.html",
+      "fotos": [
+        "./assets\\produto_130\\foto_1.jpg",
+        "./assets\\produto_130\\foto_2.jpg",
+        "./assets\\produto_130\\foto_3.jpg",
+        "./assets\\produto_130\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 131,
+      "titulo": "Pre-Owned Breitling Colt Stainless Steel Slate Dial",
+      "referencia": "N/A",
+      "preco": "$2,595",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-colt-stainless-steel-slate-dial.html",
+      "fotos": [
+        "./assets\\produto_131\\foto_1.jpg",
+        "./assets\\produto_131\\foto_2.jpg",
+        "./assets\\produto_131\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 132,
+      "titulo": "Pre-Owned Breitling Chronomat Automatic 36 Mother of Pearl Dial",
+      "referencia": "N/A",
+      "preco": "$5,295",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-chronomat-automatic-36-mother-of-pearl-dial.html",
+      "fotos": [
+        "./assets\\produto_132\\foto_1.jpg",
+        "./assets\\produto_132\\foto_2.jpg",
+        "./assets\\produto_132\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 133,
+      "titulo": "Factory Stickered Breitling Top Time B01 Ford Thunderbird",
+      "referencia": "N/A",
+      "preco": "$5,795",
+      "url": "https://www.bobswatches.com/breitling/factory-stickered-breitling-top-time-b01-ford-thunderbird.html",
+      "fotos": [
+        "./assets\\produto_133\\foto_1.jpg",
+        "./assets\\produto_133\\foto_2.jpg",
+        "./assets\\produto_133\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 134,
+      "titulo": "Breitling Avenger Automatic 42 Blue Dial",
+      "referencia": "N/A",
+      "preco": "$3,195",
+      "url": "https://www.bobswatches.com/breitling/breitling-avenger-automatic-42-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_134\\foto_1.jpg",
+        "./assets\\produto_134\\foto_2.jpg",
+        "./assets\\produto_134\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 135,
+      "titulo": "Used Breitling Chronomat Automatic 36 White Dial",
+      "referencia": "N/A",
+      "preco": "$5,795",
+      "url": "https://www.bobswatches.com/breitling/used-breitling-chronomat-automatic-36-white-dial.html",
+      "fotos": [
+        "./assets\\produto_135\\foto_1.jpg",
+        "./assets\\produto_135\\foto_2.jpg",
+        "./assets\\produto_135\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 136,
+      "titulo": "Pre-Owned Breitling Transocean Chronograph Leather Strap",
+      "referencia": "N/A",
+      "preco": "$4,595",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-transocean-chronograph-leather-strap.html",
+      "fotos": [
+        "./assets\\produto_136\\foto_1.jpg",
+        "./assets\\produto_136\\foto_2.jpg",
+        "./assets\\produto_136\\foto_3.jpg",
+        "./assets\\produto_136\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 137,
+      "titulo": "Pre-Owned Breitling Navitimer B01 Chronograph 41 Brown Dial",
+      "referencia": "N/A",
+      "preco": "$17,995",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-navitimer-b01-chronograph-41-brown-dial.html",
+      "fotos": [
+        "./assets\\produto_137\\foto_1.jpg",
+        "./assets\\produto_137\\foto_2.jpg",
+        "./assets\\produto_137\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 138,
+      "titulo": "Pre-Owned Breitling Chronomat Slate Dial",
+      "referencia": "N/A",
+      "preco": "$2,995",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-chronomat-slate-dial.html",
+      "fotos": [
+        "./assets\\produto_138\\foto_1.jpg",
+        "./assets\\produto_138\\foto_2.jpg",
+        "./assets\\produto_138\\foto_3.jpg",
+        "./assets\\produto_138\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 139,
+      "titulo": "Pre-Owned Breitling Chronomat 44 Blue Dial",
+      "referencia": "N/A",
+      "preco": "$3,695",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-chronomat-44-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_139\\foto_1.jpg",
+        "./assets\\produto_139\\foto_2.jpg",
+        "./assets\\produto_139\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 140,
+      "titulo": "Pre-Owned Breitling Premier Chronograph Blue Dial",
+      "referencia": "N/A",
+      "preco": "$6,995",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-premier-chronograph-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_140\\foto_1.jpg",
+        "./assets\\produto_140\\foto_2.jpg",
+        "./assets\\produto_140\\foto_3.jpg",
+        "./assets\\produto_140\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 141,
+      "titulo": "Pre-Owned Breitling Superocean II ref A17312",
+      "referencia": "N/A",
+      "preco": "$2,395",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-superocean-ii-ref-a17312.html",
+      "fotos": [
+        "./assets\\produto_141\\foto_1.jpg",
+        "./assets\\produto_141\\foto_2.jpg",
+        "./assets\\produto_141\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 142,
+      "titulo": "Pre-Owned Breitling Superocean Chronograph",
+      "referencia": "N/A",
+      "preco": "$2,995",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-superocean-chronograph.html",
+      "fotos": [
+        "./assets\\produto_142\\foto_1.jpg",
+        "./assets\\produto_142\\foto_2.jpg",
+        "./assets\\produto_142\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 143,
+      "titulo": "Pre-Owned Breitling Premier B01 Chronograph 42 Norton Black Dial",
+      "referencia": "N/A",
+      "preco": "$5,395",
+      "url": "https://www.bobswatches.com/breitling/pre-owned-breitling-premier-b01-chronograph-42-norton-black-dial.html",
+      "fotos": [
+        "./assets\\produto_143\\foto_1.jpg",
+        "./assets\\produto_143\\foto_2.jpg",
+        "./assets\\produto_143\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 144,
+      "titulo": "Pre-Owned Panerai Luminor Marina PAM00499 White Dial",
+      "referencia": "N/A",
+      "preco": "$4,795",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-luminor-marina-pam00499-white-dial.html",
+      "fotos": [
+        "./assets\\produto_144\\foto_1.jpg",
+        "./assets\\produto_144\\foto_2.jpg",
+        "./assets\\produto_144\\foto_3.jpg",
+        "./assets\\produto_144\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 145,
+      "titulo": "Pre-Owned Panerai Submersible Blu Abisso Bronzo Ref PAM01074",
+      "referencia": "N/A",
+      "preco": "$12,995",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-submersible-blu-abisso-bronzo-ref-pam01074.html",
+      "fotos": [
+        "./assets\\produto_145\\foto_1.jpg",
+        "./assets\\produto_145\\foto_2.jpg",
+        "./assets\\produto_145\\foto_3.jpg",
+        "./assets\\produto_145\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 146,
+      "titulo": "Pre-Owned Panerai Luminor Due PAM01387 Anthracite Dial",
+      "referencia": "N/A",
+      "preco": "$7,495",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-luminor-due-pam01387-anthracite-dial.html",
+      "fotos": [
+        "./assets\\produto_146\\foto_1.jpg",
+        "./assets\\produto_146\\foto_2.jpg",
+        "./assets\\produto_146\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 147,
+      "titulo": "Pre-Owned Panerai Luminor PAM00317 Black Ceramic",
+      "referencia": "N/A",
+      "preco": "$10,995",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-luminor-pam00317-black-ceramic.html",
+      "fotos": [
+        "./assets\\produto_147\\foto_1.jpg",
+        "./assets\\produto_147\\foto_2.jpg",
+        "./assets\\produto_147\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 148,
+      "titulo": "Pre-Owned Panerai Submersible Luna Rossa PAM01543 Ti-Ceramitech",
+      "referencia": "N/A",
+      "preco": "$14,995",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-submersible-luna-rossa-pam01543-ti-ceramitech.html",
+      "fotos": [
+        "./assets\\produto_148\\foto_1.jpg",
+        "./assets\\produto_148\\foto_2.jpg",
+        "./assets\\produto_148\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 149,
+      "titulo": "Pre-Owned Panerai Radiomir 1940 PAM00627 Black Dial",
+      "referencia": "1940",
+      "preco": "$6,795",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-radiomir-1940-pam00627-black-dial.html",
+      "fotos": [
+        "./assets\\produto_149\\foto_1.jpg",
+        "./assets\\produto_149\\foto_2.jpg",
+        "./assets\\produto_149\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 150,
+      "titulo": "Panerai Luminor Tourbillon GMT Skeleton Dial",
+      "referencia": "N/A",
+      "preco": "$64,895",
+      "url": "https://www.bobswatches.com/panerai/panerai-luminor-tourbillon-gmt-skeleton-dial.html",
+      "fotos": [
+        "./assets\\produto_150\\foto_1.jpg",
+        "./assets\\produto_150\\foto_2.jpg",
+        "./assets\\produto_150\\foto_3.jpg",
+        "./assets\\produto_150\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 151,
+      "titulo": "Pre-Owned Panerai Luminor Marina Blu Profondo PAM01157 Blue Dial",
+      "referencia": "N/A",
+      "preco": "$6,995",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-luminor-marina-blu-profondo-pam01157-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_151\\foto_1.jpg",
+        "./assets\\produto_151\\foto_2.jpg",
+        "./assets\\produto_151\\foto_3.jpg",
+        "./assets\\produto_151\\foto_4.jpg",
+        "./assets\\produto_151\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 152,
+      "titulo": "Pre-Owned Panerai Luminor Marina Quaranta PAM01270 Blue Dial",
+      "referencia": "N/A",
+      "preco": "$5,695",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-luminor-marina-quaranta-pam01270-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_152\\foto_1.jpg",
+        "./assets\\produto_152\\foto_2.jpg",
+        "./assets\\produto_152\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 153,
+      "titulo": "Pre-Owned Panerai Luminor Base Logo PAM01087 Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$5,695",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-luminor-base-logo-pam01087-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_153\\foto_1.jpg",
+        "./assets\\produto_153\\foto_2.jpg",
+        "./assets\\produto_153\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 154,
+      "titulo": "Pre-Owned Panerai Luminor Marina Ref PAM03325 Green Dial",
+      "referencia": "N/A",
+      "preco": "$8,995",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-luminor-marina-ref-pam03325-green-dial.html",
+      "fotos": [
+        "./assets\\produto_154\\foto_1.jpg",
+        "./assets\\produto_154\\foto_2.jpg",
+        "./assets\\produto_154\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 155,
+      "titulo": "Pre-Owned Panerai Luminor Ref PAM00561 White Dial",
+      "referencia": "N/A",
+      "preco": "$4,695",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-luminor-ref-pam00561-white-dial.html",
+      "fotos": [
+        "./assets\\produto_155\\foto_1.jpg",
+        "./assets\\produto_155\\foto_2.jpg",
+        "./assets\\produto_155\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 156,
+      "titulo": "Pre-Owned Panerai Luminor Chrono Navy SEALs PAM01409 Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$9,195",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-luminor-chrono-navy-seals-pam01409-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_156\\foto_1.jpg",
+        "./assets\\produto_156\\foto_2.jpg",
+        "./assets\\produto_156\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 157,
+      "titulo": "Pre-Owned Panerai Submersible Mike Horn PAM01676 Blue Dial",
+      "referencia": "N/A",
+      "preco": "$8,995",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-submersible-mike-horn-pam01676-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_157\\foto_1.jpg",
+        "./assets\\produto_157\\foto_2.jpg",
+        "./assets\\produto_157\\foto_3.jpg",
+        "./assets\\produto_157\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 158,
+      "titulo": "Used Panerai Radiomir PAM00424 California Dial",
+      "referencia": "N/A",
+      "preco": "$5,295",
+      "url": "https://www.bobswatches.com/panerai/used-panerai-radiomir-pam00424-california-dial.html",
+      "fotos": [
+        "./assets\\produto_158\\foto_1.jpg",
+        "./assets\\produto_158\\foto_2.jpg",
+        "./assets\\produto_158\\foto_3.jpg",
+        "./assets\\produto_158\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 159,
+      "titulo": "Pre-Owned Panerai Chrono Carbotech Navy SEALs PAM01419 Black Dial",
+      "referencia": "N/A",
+      "preco": "$11,495",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-chrono-carbotech-navy-seals-pam01419-black-dial.html",
+      "fotos": [
+        "./assets\\produto_159\\foto_1.jpg",
+        "./assets\\produto_159\\foto_2.jpg",
+        "./assets\\produto_159\\foto_3.jpg",
+        "./assets\\produto_159\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 160,
+      "titulo": "Panerai Luminor Two Watch Set",
+      "referencia": "N/A",
+      "preco": "$16,995",
+      "url": "https://www.bobswatches.com/panerai/panerai-luminor-two-watch-set.html",
+      "fotos": [
+        "./assets\\produto_160\\foto_1.jpg",
+        "./assets\\produto_160\\foto_2.jpg",
+        "./assets\\produto_160\\foto_3.jpg",
+        "./assets\\produto_160\\foto_4.jpg",
+        "./assets\\produto_160\\foto_5.jpg",
+        "./assets\\produto_160\\foto_6.jpg",
+        "./assets\\produto_160\\foto_7.jpg",
+        "./assets\\produto_160\\foto_8.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 161,
+      "titulo": "Pre-Owned Panerai Radiomir 3 Days Acciaio PAM00685 Limited Edition",
+      "referencia": "N/A",
+      "preco": "$6,495",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-radiomir-3-days-acciaio-pam00685-limited-edition.html",
+      "fotos": [
+        "./assets\\produto_161\\foto_1.jpg",
+        "./assets\\produto_161\\foto_2.jpg",
+        "./assets\\produto_161\\foto_3.jpg",
+        "./assets\\produto_161\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 162,
+      "titulo": "Pre-Owned Panerai Submersible GMT Navy SEALs PAM01323 Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$10,495",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-submersible-gmt-navy-seals-pam01323-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_162\\foto_1.jpg",
+        "./assets\\produto_162\\foto_2.jpg",
+        "./assets\\produto_162\\foto_3.jpg",
+        "./assets\\produto_162\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 163,
+      "titulo": "Pre-Owned Panerai Luminor GMT PAM01641 Goldtech",
+      "referencia": "N/A",
+      "preco": "$24,995",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-luminor-gmt-pam01641-goldtech.html",
+      "fotos": [
+        "./assets\\produto_163\\foto_1.jpg",
+        "./assets\\produto_163\\foto_2.jpg",
+        "./assets\\produto_163\\foto_3.jpg",
+        "./assets\\produto_163\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 164,
+      "titulo": "Used Panerai Submersible PAM02305 Titanium",
+      "referencia": "N/A",
+      "preco": "$7,295",
+      "url": "https://www.bobswatches.com/panerai/used-panerai-submersible-pam02305-titanium.html",
+      "fotos": [
+        "./assets\\produto_164\\foto_1.jpg",
+        "./assets\\produto_164\\foto_2.jpg",
+        "./assets\\produto_164\\foto_3.jpg",
+        "./assets\\produto_164\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 165,
+      "titulo": "Pre-Owned Panerai Luminor GMT PAM00063 Black Dial",
+      "referencia": "N/A",
+      "preco": "$6,495",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-luminor-gmt-pam00063-black-dial.html",
+      "fotos": [
+        "./assets\\produto_165\\foto_1.jpg",
+        "./assets\\produto_165\\foto_2.jpg",
+        "./assets\\produto_165\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 166,
+      "titulo": "Pre-Owned Panerai Submersible QuarantaQuattro PAM01229 Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$7,895",
+      "url": "https://www.bobswatches.com/panerai/pre-owned-panerai-submersible-quarantaquattro-pam01229-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_166\\foto_1.jpg",
+        "./assets\\produto_166\\foto_2.jpg",
+        "./assets\\produto_166\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 167,
+      "titulo": "Panerai Radiomir 1940 PAM00577 Black Ceramic",
+      "referencia": "1940",
+      "preco": "$6,895",
+      "url": "https://www.bobswatches.com/panerai/panerai-radiomir-1940-pam00577-black-ceramic.html",
+      "fotos": [
+        "./assets\\produto_167\\foto_1.jpg",
+        "./assets\\produto_167\\foto_2.jpg",
+        "./assets\\produto_167\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 168,
+      "titulo": "Rolex Submariner",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-submariner-1.html",
+      "fotos": [
+        "./assets\\produto_168\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 169,
+      "titulo": "Rolex Datejust",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-datejust-1.html",
+      "fotos": [
+        "./assets\\produto_169\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 170,
+      "titulo": "Rolex Daytona",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-daytona-1.html",
+      "fotos": [
+        "./assets\\produto_170\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 171,
+      "titulo": "Rolex GMT-Master II",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-gmt-master-ii-1.html",
+      "fotos": [
+        "./assets\\produto_171\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 172,
+      "titulo": "Rolex Day-Date",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-day-date-1.html",
+      "fotos": [
+        "./assets\\produto_172\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 173,
+      "titulo": "Rolex GMT-Master",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-gmt-master-1.html",
+      "fotos": [
+        "./assets\\produto_173\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 174,
+      "titulo": "Rolex Presidential",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-president-1.html",
+      "fotos": [
+        "./assets\\produto_174\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 175,
+      "titulo": "Rolex Oyster Perpetual",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-oyster-perpetual-1.html",
+      "fotos": [
+        "./assets\\produto_175\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 176,
+      "titulo": "Rolex Explorer",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-explorer-1.html",
+      "fotos": [
+        "./assets\\produto_176\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 177,
+      "titulo": "Rolex Yacht-Master",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-yacht-master-1.html",
+      "fotos": [
+        "./assets\\produto_177\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 178,
+      "titulo": "Rolex Datejust 41",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-datejust-41-1.html",
+      "fotos": [
+        "./assets\\produto_178\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 179,
+      "titulo": "Rolex Air-King Watches",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-air-king-1.html",
+      "fotos": [
+        "./assets\\produto_179\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 180,
+      "titulo": "Rolex Sea-Dweller",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-sea-dweller-1.html",
+      "fotos": [
+        "./assets\\produto_180\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 181,
+      "titulo": "Rolex Milgauss Watches",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-milgauss-1.html",
+      "fotos": [
+        "./assets\\produto_181\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 182,
+      "titulo": "Rolex Datejust 36",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-datejust-36-1.html",
+      "fotos": [
+        "./assets\\produto_182\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 183,
+      "titulo": "Rolex Explorer II",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-explorer-ii-1.html",
+      "fotos": [
+        "./assets\\produto_183\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 184,
+      "titulo": "Rolex Yacht-Master II",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-yacht-master-ii-1.html",
+      "fotos": [
+        "./assets\\produto_184\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 185,
+      "titulo": "Rolex Sky-Dweller",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-sky-dweller-1.html",
+      "fotos": [
+        "./assets\\produto_185\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 186,
+      "titulo": "Rolex Land‑Dweller",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-land-dweller-1.html",
+      "fotos": [
+        "./assets\\produto_186\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 187,
+      "titulo": "Rolex Date",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-date-1.html",
+      "fotos": [
+        "./assets\\produto_187\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 188,
+      "titulo": "Rolex Cellini",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-cellini-1.html",
+      "fotos": [
+        "./assets\\produto_188\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 189,
+      "titulo": "Rolex Day-Date II",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-day-date-ii-1.html",
+      "fotos": [
+        "./assets\\produto_189\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 190,
+      "titulo": "Rolex Datejust II",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-datejust-ii-1.html",
+      "fotos": [
+        "./assets\\produto_190\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 191,
+      "titulo": "Rolex Day-Date 40",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-day-date-40-1.html",
+      "fotos": [
+        "./assets\\produto_191\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 192,
+      "titulo": "Rolex Under $5,000",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-under-5000-1.html",
+      "fotos": [
+        "./assets\\produto_192\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 193,
+      "titulo": "Rolex Under $10,000",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-under-10000-1.html",
+      "fotos": [
+        "./assets\\produto_193\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 194,
+      "titulo": "Rolex Under $15,000",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-under-15000-1.html",
+      "fotos": [
+        "./assets\\produto_194\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 195,
+      "titulo": "Rolex Under $20,000",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-under-20000-1.html",
+      "fotos": [
+        "./assets\\produto_195\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 196,
+      "titulo": "Rolex Over $20,000",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-over-20000-1.html",
+      "fotos": [
+        "./assets\\produto_196\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 197,
+      "titulo": "Vintage Rolex",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/vintage-rolex-1.html",
+      "fotos": [
+        "./assets\\produto_197\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 198,
+      "titulo": "Rolex Midsize",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-midsize-1.html",
+      "fotos": [
+        "./assets\\produto_198\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 199,
+      "titulo": "Rolex 1908",
+      "referencia": "1908",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-1908-1.html",
+      "fotos": [
+        "./assets\\produto_199\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 200,
+      "titulo": "Rolex Oyster Precision",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-oyster-precision-1.html",
+      "fotos": [
+        "./assets\\produto_200\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 201,
+      "titulo": "Rolex SpeedKing",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-speedking-1.html",
+      "fotos": [
+        "./assets\\produto_201\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 202,
+      "titulo": "Rolex OysterDate",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-oysterdate-1.html",
+      "fotos": [
+        "./assets\\produto_202\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 204,
+      "titulo": "Rolex Yacht-Master 40",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-yacht-master-40-1.html",
+      "fotos": [
+        "./assets\\produto_204\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 205,
+      "titulo": "Rolex Datejust 31",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-datejust-31-1.html",
+      "fotos": [
+        "./assets\\produto_205\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 206,
+      "titulo": "Rolex Oyster Perpetual 36",
+      "referencia": "N/A",
+      "preco": "Min",
+      "url": "https://www.bobswatches.com/rolex-oyster-perpetual-36-1.html",
+      "fotos": [
+        "./assets\\produto_206\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 206,
+      "titulo": "Pre-Owned Patek Philippe Ellipse Ref 3377 18k Yellow Gold",
+      "referencia": "3377",
+      "preco": "$11,995",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-ellipse-ref-3377-18k-yellow-gold.html",
+      "fotos": [
+        "./assets\\produto_206\\foto_1.jpg",
+        "./assets\\produto_206\\foto_2.jpg",
+        "./assets\\produto_206\\foto_3.jpg",
+        "./assets\\produto_206\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 207,
+      "titulo": "Pre-Owned Patek Philippe Twenty-4 Ref 4910 Grey Diamond Dial",
+      "referencia": "4910",
+      "preco": "$10,995",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-twenty-4-ref-4910-grey-diamond-dial.html",
+      "fotos": [
+        "./assets\\produto_207\\foto_1.jpg",
+        "./assets\\produto_207\\foto_2.jpg",
+        "./assets\\produto_207\\foto_3.jpg",
+        "./assets\\produto_207\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 208,
+      "titulo": "Patek Philippe Complications 4968R Mother of Pearl Dial",
+      "referencia": "4968R",
+      "preco": "$42,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-complications-4968r-mother-of-pearl-dial.html",
+      "fotos": [
+        "./assets\\produto_208\\foto_1.jpg",
+        "./assets\\produto_208\\foto_2.jpg",
+        "./assets\\produto_208\\foto_3.jpg",
+        "./assets\\produto_208\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 209,
+      "titulo": "Pre-Owned Patek Philippe Nautilus 3900 18k Yellow Gold",
+      "referencia": "3900",
+      "preco": "$64,995",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-nautilus-3900-18k-yellow-gold.html",
+      "fotos": [
+        "./assets\\produto_209\\foto_1.jpg",
+        "./assets\\produto_209\\foto_2.jpg",
+        "./assets\\produto_209\\foto_3.jpg",
+        "./assets\\produto_209\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 210,
+      "titulo": "Patek Philippe Complications Annual Calendar 5036 Yellow Gold",
+      "referencia": "5036",
+      "preco": "$36,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-complications-annual-calendar-5036-yellow-gold.html",
+      "fotos": [
+        "./assets\\produto_210\\foto_1.jpg",
+        "./assets\\produto_210\\foto_2.jpg",
+        "./assets\\produto_210\\foto_3.jpg",
+        "./assets\\produto_210\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 211,
+      "titulo": "Pre-Owned Patek Philippe Calatrava 5153J 18k Yellow Gold Silver Dial",
+      "referencia": "5153J",
+      "preco": "$24,495",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-calatrava-5153j-18k-yellow-gold-silver-dial.html",
+      "fotos": [
+        "./assets\\produto_211\\foto_1.jpg",
+        "./assets\\produto_211\\foto_2.jpg",
+        "./assets\\produto_211\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 212,
+      "titulo": "Pre-Owned Patek Philippe Ref 1450 \"Top Hat\"",
+      "referencia": "1450",
+      "preco": "$10,495",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-ref-1450-top-hat.html",
+      "fotos": [
+        "./assets\\produto_212\\foto_1.jpg",
+        "./assets\\produto_212\\foto_2.jpg",
+        "./assets\\produto_212\\foto_3.jpg",
+        "./assets\\produto_212\\foto_4.jpg",
+        "./assets\\produto_212\\foto_5.jpg",
+        "./assets\\produto_212\\foto_6.jpg",
+        "./assets\\produto_212\\foto_7.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 213,
+      "titulo": "Ladies Patek Philippe Aquanaut 4960A Stainless Steel",
+      "referencia": "4960A",
+      "preco": "$25,995",
+      "url": "https://www.bobswatches.com/patek-philippe/ladies-patek-philippe-aquanaut-4960a-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_213\\foto_1.jpg",
+        "./assets\\produto_213\\foto_2.jpg",
+        "./assets\\produto_213\\foto_3.jpg",
+        "./assets\\produto_213\\foto_4.jpg",
+        "./assets\\produto_213\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 214,
+      "titulo": "Pre-Owned Patek Philippe Aquanaut 5060J 18k Yellow Gold",
+      "referencia": "5060J",
+      "preco": "$44,995",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-aquanaut-5060j-18k-yellow-gold.html",
+      "fotos": [
+        "./assets\\produto_214\\foto_1.jpg",
+        "./assets\\produto_214\\foto_2.jpg",
+        "./assets\\produto_214\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 215,
+      "titulo": "Patek Philippe Nautilus 5811/1G Blue Dial",
+      "referencia": "5811",
+      "preco": "$184,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-5811-1g-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_215\\foto_1.jpg",
+        "./assets\\produto_215\\foto_2.jpg",
+        "./assets\\produto_215\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 216,
+      "titulo": "Pre-Owned Patek Philippe Nautilus 5726 Charcoal Gray Dial",
+      "referencia": "5726",
+      "preco": "$107,995",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-nautilus-5726-charcoal-gray-dial.html",
+      "fotos": [
+        "./assets\\produto_216\\foto_1.jpg",
+        "./assets\\produto_216\\foto_2.jpg",
+        "./assets\\produto_216\\foto_3.jpg",
+        "./assets\\produto_216\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 217,
+      "titulo": "Pre-Owned Patek Philippe Aquanaut 5064A Stainless Steel",
+      "referencia": "5064A",
+      "preco": "$34,995",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-aquanaut-5064a-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_217\\foto_1.jpg",
+        "./assets\\produto_217\\foto_2.jpg",
+        "./assets\\produto_217\\foto_3.jpg",
+        "./assets\\produto_217\\foto_4.jpg",
+        "./assets\\produto_217\\foto_5.jpg",
+        "./assets\\produto_217\\foto_6.jpg",
+        "./assets\\produto_217\\foto_7.jpg",
+        "./assets\\produto_217\\foto_8.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 218,
+      "titulo": "Pre-Owned Patek Philippe Calatrava Ref 3514J",
+      "referencia": "3514J",
+      "preco": "$12,995",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-calatrava-ref-3514j.html",
+      "fotos": [
+        "./assets\\produto_218\\foto_1.jpg",
+        "./assets\\produto_218\\foto_2.jpg",
+        "./assets\\produto_218\\foto_3.jpg",
+        "./assets\\produto_218\\foto_4.jpg",
+        "./assets\\produto_218\\foto_5.jpg",
+        "./assets\\produto_218\\foto_6.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 219,
+      "titulo": "Pre-Owned Patek Philippe Calatrava Charcoal Gray Dial",
+      "referencia": "N/A",
+      "preco": "$42,995",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-calatrava-charcoal-gray-dial.html",
+      "fotos": [
+        "./assets\\produto_219\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 220,
+      "titulo": "Pre-Owned Patek Philippe Complications Annual Calendar 5205G White Gold",
+      "referencia": "5205G",
+      "preco": "$42,995",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-complications-annual-calendar-5205g-white-gold.html",
+      "fotos": [
+        "./assets\\produto_220\\foto_1.jpg",
+        "./assets\\produto_220\\foto_2.jpg",
+        "./assets\\produto_220\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 221,
+      "titulo": "Pre-Owned Patek Philippe Calatrava 5120J 18k Yellow Gold",
+      "referencia": "5120J",
+      "preco": "$22,495",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-calatrava-5120j-18k-yellow-gold.html",
+      "fotos": [
+        "./assets\\produto_221\\foto_1.jpg",
+        "./assets\\produto_221\\foto_2.jpg",
+        "./assets\\produto_221\\foto_3.jpg",
+        "./assets\\produto_221\\foto_4.jpg",
+        "./assets\\produto_221\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 222,
+      "titulo": "Patek Philippe Complications White Dial 5015P Platinum",
+      "referencia": "5015P",
+      "preco": "$31,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-complications-white-dial-5015p-platinum.html",
+      "fotos": [
+        "./assets\\produto_222\\foto_1.jpg",
+        "./assets\\produto_222\\foto_2.jpg",
+        "./assets\\produto_222\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 223,
+      "titulo": "Patek Philippe Neptune 5080 Silver Dial",
+      "referencia": "5080",
+      "preco": "$19,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-neptune-5080-silver-dial.html",
+      "fotos": [
+        "./assets\\produto_223\\foto_1.jpg",
+        "./assets\\produto_223\\foto_2.jpg",
+        "./assets\\produto_223\\foto_3.jpg",
+        "./assets\\produto_223\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 224,
+      "titulo": "Pre-Owned Patek Philippe Ref 2480 Top Hat",
+      "referencia": "2480",
+      "preco": "$10,495",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-ref-2480-top-hat.html",
+      "fotos": [
+        "./assets\\produto_224\\foto_1.jpg",
+        "./assets\\produto_224\\foto_2.jpg",
+        "./assets\\produto_224\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 225,
+      "titulo": "Patek Philippe Complications Chronograph 18k White Gold",
+      "referencia": "N/A",
+      "preco": "$36,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-complications-chronograph-18k-white-gold.html",
+      "fotos": [
+        "./assets\\produto_225\\foto_1.jpg",
+        "./assets\\produto_225\\foto_2.jpg",
+        "./assets\\produto_225\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 226,
+      "titulo": "Patek Philippe Aquanaut Black Embossed Dial",
+      "referencia": "N/A",
+      "preco": "$44,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-aquanaut-black-embossed-dial.html",
+      "fotos": [
+        "./assets\\produto_226\\foto_1.jpg",
+        "./assets\\produto_226\\foto_2.jpg",
+        "./assets\\produto_226\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 227,
+      "titulo": "Patek Philippe Complications Annual Calendar 18k White Gold",
+      "referencia": "N/A",
+      "preco": "$31,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-complications-annual-calendar-18k-white-gold.html",
+      "fotos": [
+        "./assets\\produto_227\\foto_1.jpg",
+        "./assets\\produto_227\\foto_2.jpg",
+        "./assets\\produto_227\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 228,
+      "titulo": "Patek Philippe Calatrava Ivory Dial",
+      "referencia": "N/A",
+      "preco": "$22,495",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-ivory-dial.html",
+      "fotos": [
+        "./assets\\produto_228\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 229,
+      "titulo": "Patek Philippe Calatrava Black Dial",
+      "referencia": "N/A",
+      "preco": "$22,495",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-black-dial.html",
+      "fotos": [
+        "./assets\\produto_229\\foto_1.jpg",
+        "./assets\\produto_229\\foto_2.jpg",
+        "./assets\\produto_229\\foto_3.jpg",
+        "./assets\\produto_229\\foto_4.jpg",
+        "./assets\\produto_229\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 230,
+      "titulo": "Pre-Owned Patek Phillipe Nautilus Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$107,995",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-phillipe-nautilus-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_230\\foto_1.jpg",
+        "./assets\\produto_230\\foto_2.jpg",
+        "./assets\\produto_230\\foto_3.jpg",
+        "./assets\\produto_230\\foto_4.jpg",
+        "./assets\\produto_230\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 231,
+      "titulo": "Patek Philippe Complications Annual Calendar 18k Rose Gold",
+      "referencia": "N/A",
+      "preco": "$36,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-complications-annual-calendar-18k-rose-gold.html",
+      "fotos": [
+        "./assets\\produto_231\\foto_1.jpg",
+        "./assets\\produto_231\\foto_2.jpg",
+        "./assets\\produto_231\\foto_3.jpg",
+        "./assets\\produto_231\\foto_4.jpg",
+        "./assets\\produto_231\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 232,
+      "titulo": "Patek Philippe Ellipse Yellow Gold",
+      "referencia": "N/A",
+      "preco": "$11,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-ellipse-yellow-gold.html",
+      "fotos": [
+        "./assets\\produto_232\\foto_1.jpg",
+        "./assets\\produto_232\\foto_2.jpg",
+        "./assets\\produto_232\\foto_3.jpg",
+        "./assets\\produto_232\\foto_4.jpg",
+        "./assets\\produto_232\\foto_5.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 233,
+      "titulo": "Patek Philippe Calatrava 18k White Gold",
+      "referencia": "N/A",
+      "preco": "$22,495",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-18k-white-gold.html",
+      "fotos": [
+        "./assets\\produto_233\\foto_1.jpg",
+        "./assets\\produto_233\\foto_2.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 234,
+      "titulo": "Pre-Owned Patek Philippe Aquanaut Stainless Steel",
+      "referencia": "N/A",
+      "preco": "$25,995",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-aquanaut-stainless-steel.html",
+      "fotos": [
+        "./assets\\produto_234\\foto_1.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 235,
+      "titulo": "Patek Philippe Calatrava 3919",
+      "referencia": "3919",
+      "preco": "$12,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-3919.html",
+      "fotos": [
+        "./assets\\produto_235\\foto_1.jpg",
+        "./assets\\produto_235\\foto_2.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 236,
+      "titulo": "Patek Philippe Perpetual Calendar 18k Yellow Gold",
+      "referencia": "N/A",
+      "preco": "$31,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-philippe-perpetual-calendar-18k-yellow-gold.html",
+      "fotos": [
+        "./assets\\produto_236\\foto_1.jpg",
+        "./assets\\produto_236\\foto_2.jpg",
+        "./assets\\produto_236\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 237,
+      "titulo": "Pre-Owned Patek Philippe Annual Calendar",
+      "referencia": "N/A",
+      "preco": "$36,995",
+      "url": "https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-annual-calendar.html",
+      "fotos": [
+        "./assets\\produto_237\\foto_1.jpg",
+        "./assets\\produto_237\\foto_2.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 238,
+      "titulo": "Patek Phillipe Nautilus Stainless Steel Blue Dial",
+      "referencia": "N/A",
+      "preco": "$107,995",
+      "url": "https://www.bobswatches.com/patek-philippe/patek-phillipe-nautilus-stainless-steel-blue-dial.html",
+      "fotos": [
+        "./assets\\produto_238\\foto_1.jpg",
+        "./assets\\produto_238\\foto_2.jpg",
+        "./assets\\produto_238\\foto_3.jpg",
+        "./assets\\produto_238\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 239,
+      "titulo": "Pre-Owned Cartier Panthere Vendome Louis Cartier Watch Small Model",
+      "referencia": "N/A",
+      "preco": "$12,495",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-panthere-vendome-louis-cartier-watch-small-model.html",
+      "fotos": [
+        "./assets\\produto_239\\foto_1.jpg",
+        "./assets\\produto_239\\foto_2.jpg",
+        "./assets\\produto_239\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 240,
+      "titulo": "Pre-Owned Cartier Tank Must Ivory Roman Dial",
+      "referencia": "N/A",
+      "preco": "$2,495",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-tank-must-ivory-roman-dial.html",
+      "fotos": [
+        "./assets\\produto_240\\foto_1.jpg",
+        "./assets\\produto_240\\foto_2.jpg",
+        "./assets\\produto_240\\foto_3.jpg",
+        "./assets\\produto_240\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 241,
+      "titulo": "Pre-Owned Santos de Cartier WSSA0062 Green Dial",
+      "referencia": "N/A",
+      "preco": "$7,795",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-santos-de-cartier-wssa0062-green-dial.html",
+      "fotos": [
+        "./assets\\produto_241\\foto_1.jpg",
+        "./assets\\produto_241\\foto_2.jpg",
+        "./assets\\produto_241\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 242,
+      "titulo": "Pre-Owned Cartier Calibre De Cartier W7100040 18k Rose Gold",
+      "referencia": "N/A",
+      "preco": "$32,495",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-calibre-de-cartier-w7100040-18k-rose-gold.html",
+      "fotos": [
+        "./assets\\produto_242\\foto_1.jpg",
+        "./assets\\produto_242\\foto_2.jpg",
+        "./assets\\produto_242\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 243,
+      "titulo": "Pre-Owned Cartier Tank Anglaise Watch Ref W5310022 Small Model",
+      "referencia": "N/A",
+      "preco": "$3,795",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-tank-anglaise-watch-ref-w5310022-small-model.html",
+      "fotos": [
+        "./assets\\produto_243\\foto_1.jpg",
+        "./assets\\produto_243\\foto_2.jpg",
+        "./assets\\produto_243\\foto_3.jpg",
+        "./assets\\produto_243\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 244,
+      "titulo": "Pre-Owned Cartier Santos 100 W200728G Steel & 18k Yellow Gold",
+      "referencia": "N/A",
+      "preco": "$8,495",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-santos-100-w200728g-steel-and-18k-yellow-gold.html",
+      "fotos": [
+        "./assets\\produto_244\\foto_1.jpg",
+        "./assets\\produto_244\\foto_2.jpg",
+        "./assets\\produto_244\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 245,
+      "titulo": "Pre-Owned Two Tone Cartier Roadster Ref W62031Y4",
+      "referencia": "N/A",
+      "preco": "$6,595",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-two-tone-cartier-roadster-ref-w62031y4.html",
+      "fotos": [
+        "./assets\\produto_245\\foto_1.jpg",
+        "./assets\\produto_245\\foto_2.jpg",
+        "./assets\\produto_245\\foto_3.jpg",
+        "./assets\\produto_245\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 246,
+      "titulo": "Pre-Owned Santos de Cartier Ref WSSA0076 Large Model",
+      "referencia": "N/A",
+      "preco": "$8,495",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-santos-de-cartier-ref-wssa0076-large-model.html",
+      "fotos": [
+        "./assets\\produto_246\\foto_1.jpg",
+        "./assets\\produto_246\\foto_2.jpg",
+        "./assets\\produto_246\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 247,
+      "titulo": "Pre-Owned Santos de Cartier WSSA0018 Large Stainless Steel Model",
+      "referencia": "N/A",
+      "preco": "$7,495",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-santos-de-cartier-wssa0018-large-stainless-steel-model.html",
+      "fotos": [
+        "./assets\\produto_247\\foto_1.jpg",
+        "./assets\\produto_247\\foto_2.jpg",
+        "./assets\\produto_247\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 248,
+      "titulo": "Pre-Owned Cartier Tank Solo W1018855 Yellow Gold Large Model",
+      "referencia": "N/A",
+      "preco": "$5,995",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-tank-solo-w1018855-yellow-gold-large-model.html",
+      "fotos": [
+        "./assets\\produto_248\\foto_1.jpg",
+        "./assets\\produto_248\\foto_2.jpg",
+        "./assets\\produto_248\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 249,
+      "titulo": "Pre-Owned Large Model Santos de Cartier Ref WSSA0018",
+      "referencia": "N/A",
+      "preco": "$7,495",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-large-model-santos-de-cartier-ref-wssa0018.html",
+      "fotos": [
+        "./assets\\produto_249\\foto_1.jpg",
+        "./assets\\produto_249\\foto_2.jpg",
+        "./assets\\produto_249\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 250,
+      "titulo": "Cartier Tank Solo W1018355 Large White Roman Dial",
+      "referencia": "N/A",
+      "preco": "$3,695",
+      "url": "https://www.bobswatches.com/cartier/cartier-tank-solo-w1018355-large-white-roman-dial.html",
+      "fotos": [
+        "./assets\\produto_250\\foto_1.jpg",
+        "./assets\\produto_250\\foto_2.jpg",
+        "./assets\\produto_250\\foto_3.jpg",
+        "./assets\\produto_250\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 251,
+      "titulo": "Pre-Owned Cartier Panthere W25014B9 XL 18k Yellow Gold",
+      "referencia": "N/A",
+      "preco": "$19,495",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-panthere-w25014b9-xl-18k-yellow-gold.html",
+      "fotos": [
+        "./assets\\produto_251\\foto_1.jpg",
+        "./assets\\produto_251\\foto_2.jpg",
+        "./assets\\produto_251\\foto_3.jpg",
+        "./assets\\produto_251\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 252,
+      "titulo": "Pre-Owned Cartier Santos Dumont W2SA0038 Small Model",
+      "referencia": "N/A",
+      "preco": "$6,495",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-santos-dumont-w2sa0038-small-model.html",
+      "fotos": [
+        "./assets\\produto_252\\foto_1.jpg",
+        "./assets\\produto_252\\foto_2.jpg",
+        "./assets\\produto_252\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 253,
+      "titulo": "Pre-Owned Silver Dial Cartier Tank Francaise W51005Q4 Steel & Gold",
+      "referencia": "N/A",
+      "preco": "$4,995",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-silver-dial-cartier-tank-francaise-w51005q4-steel-and-gold.html",
+      "fotos": [
+        "./assets\\produto_253\\foto_1.jpg",
+        "./assets\\produto_253\\foto_2.jpg",
+        "./assets\\produto_253\\foto_3.jpg",
+        "./assets\\produto_253\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 254,
+      "titulo": "Pre-Owned Cartier Tank Francaise W51005Q4 Steel & Gold",
+      "referencia": "N/A",
+      "preco": "$4,595",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-tank-francaise-w51005q4-steel-and-gold.html",
+      "fotos": [
+        "./assets\\produto_254\\foto_1.jpg",
+        "./assets\\produto_254\\foto_2.jpg",
+        "./assets\\produto_254\\foto_3.jpg",
+        "./assets\\produto_254\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 255,
+      "titulo": "Pre-Owned Cartier Tank Solo W5200026 18k Rose Gold",
+      "referencia": "N/A",
+      "preco": "$7,995",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-tank-solo-w5200026-18k-rose-gold.html",
+      "fotos": [
+        "./assets\\produto_255\\foto_1.jpg",
+        "./assets\\produto_255\\foto_2.jpg",
+        "./assets\\produto_255\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 256,
+      "titulo": "Pre-Owned Cartier Tank Solo W1018355 Large White Roman Dial",
+      "referencia": "N/A",
+      "preco": "$3,695",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-tank-solo-w1018355-large-white-roman-dial.html",
+      "fotos": [
+        "./assets\\produto_256\\foto_1.jpg",
+        "./assets\\produto_256\\foto_2.jpg",
+        "./assets\\produto_256\\foto_3.jpg",
+        "./assets\\produto_256\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 257,
+      "titulo": "Pre-Owned Panthere de Cartier W2PN0007 Medium Model",
+      "referencia": "N/A",
+      "preco": "$10,295",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-panthere-de-cartier-w2pn0007-medium-model.html",
+      "fotos": [
+        "./assets\\produto_257\\foto_1.jpg",
+        "./assets\\produto_257\\foto_2.jpg",
+        "./assets\\produto_257\\foto_3.jpg",
+        "./assets\\produto_257\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 258,
+      "titulo": "Pre-Owned Cartier Tank Busculante Ref W1011258 Pivoting Case",
+      "referencia": "N/A",
+      "preco": "$5,995",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-tank-busculante-ref-w1011258-pivoting-case.html",
+      "fotos": [
+        "./assets\\produto_258\\foto_1.jpg",
+        "./assets\\produto_258\\foto_2.jpg",
+        "./assets\\produto_258\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 259,
+      "titulo": "Pre-Owned Cartier Santos Vendôme Ref 84738788 Yellow Gold",
+      "referencia": "84738788",
+      "preco": "$9,995",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-santos-vendme-ref-84738788-yellow-gold.html",
+      "fotos": [
+        "./assets\\produto_259\\foto_1.jpg",
+        "./assets\\produto_259\\foto_2.jpg",
+        "./assets\\produto_259\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 260,
+      "titulo": "Pre-Owned Panthere De Cartier Ref WGPN0007 Rose Gold Medium Model",
+      "referencia": "N/A",
+      "preco": "$22,995",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-panthere-de-cartier-ref-wgpn0007-rose-gold-medium-model.html",
+      "fotos": [
+        "./assets\\produto_260\\foto_1.jpg",
+        "./assets\\produto_260\\foto_2.jpg",
+        "./assets\\produto_260\\foto_3.jpg",
+        "./assets\\produto_260\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 261,
+      "titulo": "Pre-Owned Cartier Santos Galbée Ref 187901 Two Tone",
+      "referencia": "187901",
+      "preco": "$5,295",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-santos-galbe-ref-187901-two-tone.html",
+      "fotos": [
+        "./assets\\produto_261\\foto_1.jpg",
+        "./assets\\produto_261\\foto_2.jpg",
+        "./assets\\produto_261\\foto_3.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 262,
+      "titulo": "Pre-Owned Cartier Pasha C Ref W31010M7 Silver Dial",
+      "referencia": "N/A",
+      "preco": "$3,395",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-cartier-pasha-c-ref-w31010m7-silver-dial.html",
+      "fotos": [
+        "./assets\\produto_262\\foto_1.jpg",
+        "./assets\\produto_262\\foto_2.jpg",
+        "./assets\\produto_262\\foto_3.jpg",
+        "./assets\\produto_262\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 263,
+      "titulo": "Pre-Owned Panthere de Cartier W4PN0018 Medium Model Diamond Bezel",
+      "referencia": "N/A",
+      "preco": "$10,295",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-panthere-de-cartier-w4pn0018-medium-model-diamond-bezel.html",
+      "fotos": [
+        "./assets\\produto_263\\foto_1.jpg",
+        "./assets\\produto_263\\foto_2.jpg",
+        "./assets\\produto_263\\foto_3.jpg",
+        "./assets\\produto_263\\foto_4.jpg"
+      ],
+      "specs": {}
+    },
+    {
+      "id": 264,
+      "titulo": "Pre-Owned Silver Roman Dial Cartier Tank Francaise Ref W51002Q3",
+      "referencia": "N/A",
+      "preco": "$4,595",
+      "url": "https://www.bobswatches.com/cartier/pre-owned-silver-roman-dial-cartier-tank-francaise-ref-w51002q3.html",
+      "fotos": [
+        "./assets\\produto_264\\foto_1.jpg",
+        "./assets\\produto_264\\foto_2.jpg",
+        "./assets\\produto_264\\foto_3.jpg"
+      ],
+      "specs": {}
+    }
+  ]
+}
