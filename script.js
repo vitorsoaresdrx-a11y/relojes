@@ -32,8 +32,10 @@ document.addEventListener('DOMContentLoaded', () => {
             card.className = 'product-card';
             card.style.animationDelay = `${index * 0.1}s`;
             
-            // Use the first image in the array
-            const mainImage = watch.images && watch.images.length > 0 ? watch.images[0] : 'https://via.placeholder.com/400x400?text=Relogio+Premium';
+            let mainImage = watch.images && watch.images.length > 0 ? watch.images[0] : 'https://via.placeholder.com/400x400?text=Relogio+Premium';
+            if (mainImage.startsWith('assets/')) {
+                mainImage = '/' + mainImage;
+            }
             
             card.innerHTML = `
                 <div class="product-image">
@@ -341,7 +343,10 @@ document.addEventListener('DOMContentLoaded', () => {
         let total = 0;
 
         cart.forEach((item, index) => {
-            const mainImg = item.images && item.images.length > 0 ? item.images[0] : 'https://via.placeholder.com/100x100';
+            let mainImg = item.images && item.images.length > 0 ? item.images[0] : 'https://via.placeholder.com/100x100';
+            if (mainImg.startsWith('assets/')) {
+                mainImg = '/' + mainImg;
+            }
             const price = parsePrice(item.price);
             total += price * item.quantity;
 
