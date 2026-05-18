@@ -416,7 +416,7 @@ document.addEventListener('DOMContentLoaded', () => {
             message += `━━━━━━━━━━━━━━━━━━━━━\n\n`;
             message += `Aguardando instrucciones para el pago y envío.`;
             
-            const phone = "554791028539"; 
+            const phone = window.whatsappPhone || "554791028539"; 
             const encodedMessage = encodeURIComponent(message);
             window.open(`https://wa.me/${phone}?text=${encodedMessage}`, '_blank');
         });
