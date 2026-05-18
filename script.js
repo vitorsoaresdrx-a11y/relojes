@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             card.innerHTML = `
                 <div class="product-image">
-                    <img src="${mainImage}" alt="${watch.model}" onerror="this.src='https://via.placeholder.com/400x400?text=Relogio+Premium'">
+                    <img src="${mainImage}" alt="${watch.model}" loading="lazy" onerror="this.src='https://via.placeholder.com/400x400?text=Relogio+Premium'">
                 </div>
                 <div class="product-info">
                     <span class="product-brand">${watch.brand}</span>
@@ -347,7 +347,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             html += `
                 <div class="cart-item">
-                    <img src="${mainImg}" class="cart-item-img" alt="${item.model}">
+                    <img src="${mainImg}" class="cart-item-img" alt="${item.model}" loading="lazy">
                     <div class="cart-item-info">
                         <span class="cart-item-brand">${item.brand}</span>
                         <div class="cart-item-title">${(item.model||'').toLowerCase()}</div>
@@ -422,4 +422,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Initialize cart UI on load
+    updateCartUI();
 });
