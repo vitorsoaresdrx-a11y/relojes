@@ -14,6 +14,24 @@ document.addEventListener('DOMContentLoaded', () => {
     let cart = JSON.parse(localStorage.getItem('primeCart')) || [];
     let cartCount = cart.reduce((acc, item) => acc + item.quantity, 0);
     if(cartCountEl) cartCountEl.textContent = cartCount;
+
+    // Mapa de URL slug -> nome da marca
+    const slugToBrand = {
+        'rolex': 'Rolex',
+        'omega': 'OMEGA',
+        'breitling': 'Breitling',
+        'patek-philippe': 'Patek Philippe',
+        'audemars-piguet': 'Audemars Piguet',
+        'panerai': 'Panerai',
+        'tissot': 'Tissot'
+    };
+
+    // Detecta a categoria pela URL atual
+    function getCategoryFromURL() {
+        const path = window.location.pathname.replace('/', '').toLowerCase();
+        return slugToBrand[path] || 'all';
+    }
+
     // Render Products
     function renderProducts(filter = 'all') {
         productsContainer.innerHTML = '';
@@ -155,7 +173,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Modal Buy Button
         const modalBuyBtn = document.querySelector('.modal-buy-btn');
-        // Remove old listeners to prevent multiple additions if modal is opened multiple times
         const newModalBuyBtn = modalBuyBtn.cloneNode(true);
         modalBuyBtn.parentNode.replaceChild(newModalBuyBtn, modalBuyBtn);
 
@@ -168,7 +185,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // Close Modals
     document.querySelectorAll('.close-modal').forEach(btn => {
         btn.addEventListener('click', (e) => {
-            // Find the closest modal and close it
             const parentModal = e.target.closest('.modal');
             if (parentModal) parentModal.style.display = 'none';
         });
@@ -181,25 +197,36 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Render Filter Buttons in Modal
-    function renderFilters() {
+    function renderFilters(activeFilter = 'all') {
         const popupList = document.getElementById('category-popup-list');
         if (!popupList) return;
 
-        // Lista exata de marcas solicitada
         const brands = [
             "Rolex", "OMEGA", "Breitling", "Patek Philippe",
             "Audemars Piguet", "Panerai", "Tissot"
         ];
 
-        // Criar os botões
-        let buttonsHtml = `<button class="filter-btn active" data-filter="all" style="width:100%; border-radius: 8px;">Todos</button>`;
+        // Mapa de marca -> slug de URL
+        const brandToSlug = {
+            'Rolex': 'rolex',
+            'OMEGA': 'omega',
+            'Breitling': 'breitling',
+            'Patek Philippe': 'patek-philippe',
+            'Audemars Piguet': 'audemars-piguet',
+            'Panerai': 'panerai',
+            'Tissot': 'tissot'
+        };
+
+        const isAllActive = activeFilter === 'all' ? 'active' : '';
+        let buttonsHtml = `<button class="filter-btn ${isAllActive}" data-filter="all" data-url="/" style="width:100%; border-radius: 8px;">Todos</button>`;
         brands.forEach(brand => {
-            buttonsHtml += `<button class="filter-btn" data-filter="${brand}" style="width:100%; border-radius: 8px;">${brand}</button>`;
+            const slug = brandToSlug[brand];
+            const isActive = activeFilter.toLowerCase() === brand.toLowerCase() ? 'active' : '';
+            buttonsHtml += `<button class="filter-btn ${isActive}" data-filter="${brand}" data-url="/${slug}" style="width:100%; border-radius: 8px;">${brand}</button>`;
         });
 
         popupList.innerHTML = buttonsHtml;
 
-        // Atachar eventos aos botões
         const filterButtons = popupList.querySelectorAll('.filter-btn');
         const currentCategoryTitle = document.getElementById('current-category-title');
         const categoryModal = document.getElementById('category-modal');
@@ -210,13 +237,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 e.target.classList.add('active');
 
                 const filter = e.target.getAttribute('data-filter');
+                const url = e.target.getAttribute('data-url');
+
+                // Atualiza a URL sem recarregar a página
+                window.history.pushState({}, '', url);
+
                 if(currentCategoryTitle) {
-                    currentCategoryTitle.textContent = filter === 'all' ? 'Todos os Relógios' : filter;
+                    currentCategoryTitle.textContent = filter === 'all' ? 'Todos los Relojes' : filter;
                 }
 
                 renderProducts(filter);
-
-                // Fechar modal ao escolher
                 categoryModal.style.display = 'none';
             });
         });
@@ -239,16 +269,22 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Close Modals on Outside Click
     window.addEventListener('click', (e) => {
         const watchModal = document.getElementById('watch-modal');
         if (e.target === categoryModal) categoryModal.style.display = 'none';
         if (e.target === watchModal) watchModal.style.display = 'none';
     });
 
-    // Initial Render
-    renderFilters();
-    renderProducts();
+    // Detecta categoria pela URL e renderiza
+    const initialCategory = getCategoryFromURL();
+    const currentCategoryTitle = document.getElementById('current-category-title');
+    if (currentCategoryTitle) {
+        currentCategoryTitle.textContent = initialCategory === 'all' ? 'Todos los Relojes' : initialCategory;
+    }
+
+    renderFilters(initialCategory);
+    renderProducts(initialCategory);
+
     // --- CART DRAWER LOGIC ---
     const cartDrawer = document.getElementById('cart-drawer');
     const cartOverlay = document.getElementById('cart-overlay');
@@ -258,20 +294,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const cartTotalPrice = document.getElementById('cart-total-price');
     const checkoutBtn = document.getElementById('checkout-btn');
 
-    // Save cart to local storage
     function saveCart() {
         localStorage.setItem('primeCart', JSON.stringify(cart));
     }
 
-    // Make functions globally available if needed
     window.addToCart = function(watch) {
-        // Check if watch already exists in cart
         const existingItemIndex = cart.findIndex(item => item.model === watch.model && item.brand === watch.brand);
 
         if (existingItemIndex > -1) {
             cart[existingItemIndex].quantity += 1;
         } else {
-            // Store a deep copy so we can modify quantity
             cart.push({ ...watch, quantity: 1 });
         }
 
@@ -280,12 +312,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         saveCart();
 
-        // Pulse animation on the icon
         cartCountEl.style.transform = 'scale(1.3)';
         setTimeout(() => cartCountEl.style.transform = 'scale(1)', 200);
 
         updateCartUI();
-        openCart(); // Auto open cart when adding (iFood style)
+        openCart();
     };
 
     window.updateQuantity = function(index, delta) {
