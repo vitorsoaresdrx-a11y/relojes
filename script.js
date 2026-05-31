@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Render Products
     function renderProducts(filter = 'all') {
         productsContainer.innerHTML = '';
-        
+
         const filteredWatches = filter === 'all' 
             ? window.watches 
             : window.watches.filter(w => {
@@ -31,12 +31,12 @@ document.addEventListener('DOMContentLoaded', () => {
             const card = document.createElement('div');
             card.className = 'product-card';
             card.style.animationDelay = `${index * 0.1}s`;
-            
+
             let mainImage = watch.images && watch.images.length > 0 ? watch.images[0] : 'https://via.placeholder.com/400x400?text=Relogio+Premium';
             if (mainImage.startsWith('assets/')) {
                 mainImage = '/' + mainImage;
             }
-            
+
             card.innerHTML = `
                 <div class="product-image">
                     <img src="${mainImage}" alt="${watch.model}" loading="lazy" onerror="this.src='https://via.placeholder.com/400x400?text=Relogio+Premium'">
@@ -44,16 +44,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="product-info">
                     <span class="product-brand">${watch.brand}</span>
                     <h3 class="product-title" style="text-transform: capitalize;">${(watch.model||'').toLowerCase()}</h3>
-                    <div class="product-price">
-                        <span>${watch.price}</span>
-                    </div>
                     <div class="product-actions">
                         <button class="btn btn-primary buy-btn" data-index="${window.watches.indexOf(watch)}">COMPRAR</button>
                         <button class="btn btn-secondary details-btn" data-index="${window.watches.indexOf(watch)}">DETALLES</button>
                     </div>
                 </div>
             `;
-            
+
             productsContainer.appendChild(card);
         });
 
@@ -68,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const index = e.target.getAttribute('data-index');
                 const watch = window.watches[index];
                 addToCart(watch);
-                
+
                 btn.textContent = '¡Añadido!';
                 btn.style.backgroundColor = '#00A36C';
                 setTimeout(() => {
@@ -94,14 +91,14 @@ document.addEventListener('DOMContentLoaded', () => {
         for (const [key, value] of Object.entries(watch.specifications)) {
             const kl = key.toLowerCase();
             if (kl.includes('condition') || kl.includes('movement') || kl.includes('gender') || kl.includes('box')) continue;
-            
+
             let translatedKey = key;
             if (kl.includes('dial')) translatedKey = 'Esfera';
             if (kl.includes('case')) translatedKey = 'Caja';
             if (kl.includes('bracelet')) translatedKey = 'Brazalete';
             if (kl.includes('year')) translatedKey = 'Año';
             if (kl.includes('reference')) translatedKey = 'Referencia';
-            
+
             specsHtml += `<li style="padding: 8px 0; border-bottom: 1px solid #eee; display: flex; justify-content: space-between;"><strong>${translatedKey}:</strong> <span style="text-align: right; max-width: 60%;">${value}</span></li>`;
         }
 
@@ -127,7 +124,6 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="modal-info">
                 <span class="product-brand" style="color: var(--primary); font-weight: bold; letter-spacing: 2px; text-transform: uppercase;">${watch.brand}</span>
                 <h2 style="font-family: var(--font-body); font-weight: 600; font-size: 1.4rem; line-height: 1.4; margin-top: 5px; margin-bottom: 15px; color: var(--black); text-transform: capitalize;">${(watch.model||'').toLowerCase()}</h2>
-                <h3 style="color: var(--black); font-weight: bold; font-size: 1.8rem; margin-bottom: 20px;">${watch.price}</h3>
                 <h4 style="margin-bottom: 10px; color: var(--black);">Especificaciones:</h4>
                 <ul style="list-style: none; margin-bottom: 30px; color: var(--text-muted); font-size: 0.95rem; padding: 0;">
                     <li style="padding: 8px 0; border-bottom: 1px solid #eee; display: flex; justify-content: space-between;"><strong>Calidad:</strong> <span>AAA</span></li>
@@ -145,12 +141,12 @@ document.addEventListener('DOMContentLoaded', () => {
         // Add Thumbnail Click Listeners
         const thumbs = document.querySelectorAll('.thumb-img');
         const mainImgDisplay = document.getElementById('modal-img-display');
-        
+
         thumbs.forEach(thumb => {
             thumb.addEventListener('click', (e) => {
                 const idx = e.target.getAttribute('data-index');
                 mainImgDisplay.src = watch.images[idx];
-                
+
                 // Update active class
                 thumbs.forEach(t => t.classList.remove('active'));
                 e.target.classList.add('active');
@@ -162,7 +158,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Remove old listeners to prevent multiple additions if modal is opened multiple times
         const newModalBuyBtn = modalBuyBtn.cloneNode(true);
         modalBuyBtn.parentNode.replaceChild(newModalBuyBtn, modalBuyBtn);
-        
+
         newModalBuyBtn.addEventListener('click', () => {
             addToCart(watch);
             modal.style.display = 'none';
@@ -188,38 +184,38 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderFilters() {
         const popupList = document.getElementById('category-popup-list');
         if (!popupList) return;
-        
+
         // Lista exata de marcas solicitada
         const brands = [
             "Rolex", "OMEGA", "Breitling", "Patek Philippe",
             "Audemars Piguet", "Panerai", "Tissot"
         ];
-        
+
         // Criar os botões
         let buttonsHtml = `<button class="filter-btn active" data-filter="all" style="width:100%; border-radius: 8px;">Todos</button>`;
         brands.forEach(brand => {
             buttonsHtml += `<button class="filter-btn" data-filter="${brand}" style="width:100%; border-radius: 8px;">${brand}</button>`;
         });
-        
+
         popupList.innerHTML = buttonsHtml;
-        
+
         // Atachar eventos aos botões
         const filterButtons = popupList.querySelectorAll('.filter-btn');
         const currentCategoryTitle = document.getElementById('current-category-title');
         const categoryModal = document.getElementById('category-modal');
-        
+
         filterButtons.forEach(btn => {
             btn.addEventListener('click', (e) => {
                 filterButtons.forEach(b => b.classList.remove('active'));
                 e.target.classList.add('active');
-                
+
                 const filter = e.target.getAttribute('data-filter');
                 if(currentCategoryTitle) {
                     currentCategoryTitle.textContent = filter === 'all' ? 'Todos os Relógios' : filter;
                 }
-                
+
                 renderProducts(filter);
-                
+
                 // Fechar modal ao escolher
                 categoryModal.style.display = 'none';
             });
@@ -271,38 +267,38 @@ document.addEventListener('DOMContentLoaded', () => {
     window.addToCart = function(watch) {
         // Check if watch already exists in cart
         const existingItemIndex = cart.findIndex(item => item.model === watch.model && item.brand === watch.brand);
-        
+
         if (existingItemIndex > -1) {
             cart[existingItemIndex].quantity += 1;
         } else {
             // Store a deep copy so we can modify quantity
             cart.push({ ...watch, quantity: 1 });
         }
-        
+
         cartCount = cart.reduce((acc, item) => acc + item.quantity, 0);
         cartCountEl.textContent = cartCount;
-        
+
         saveCart();
-        
+
         // Pulse animation on the icon
         cartCountEl.style.transform = 'scale(1.3)';
         setTimeout(() => cartCountEl.style.transform = 'scale(1)', 200);
-        
+
         updateCartUI();
         openCart(); // Auto open cart when adding (iFood style)
     };
 
     window.updateQuantity = function(index, delta) {
         if (!cart[index]) return;
-        
+
         cart[index].quantity += delta;
         if (cart[index].quantity <= 0) {
             cart.splice(index, 1);
         }
-        
+
         cartCount = cart.reduce((acc, item) => acc + item.quantity, 0);
         cartCountEl.textContent = cartCount;
-        
+
         saveCart();
         updateCartUI();
     };
@@ -311,7 +307,7 @@ document.addEventListener('DOMContentLoaded', () => {
         cart.splice(index, 1);
         cartCount = cart.reduce((acc, item) => acc + item.quantity, 0);
         cartCountEl.textContent = cartCount;
-        
+
         saveCart();
         updateCartUI();
     };
@@ -330,7 +326,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function updateCartUI() {
         if (!cartDrawer) return;
-        
+
         if (cart.length === 0) {
             cartItemsContainer.innerHTML = '<div class="empty-cart-msg">Su carrito está vacío.</div>';
             cartTotalPrice.textContent = 'R$ 0,00';
@@ -357,7 +353,6 @@ document.addEventListener('DOMContentLoaded', () => {
                         <span class="cart-item-brand">${item.brand}</span>
                         <div class="cart-item-title">${(item.model||'').toLowerCase()}</div>
                         <div class="cart-item-price-row">
-                            <span class="cart-item-price">${item.price}</span>
                             <div class="cart-item-controls">
                                 <button class="cart-qty-btn" onclick="updateQuantity(${index}, -1)">-</button>
                                 <span class="cart-qty">${item.quantity}</span>
@@ -400,27 +395,23 @@ document.addEventListener('DOMContentLoaded', () => {
     if (checkoutBtn) {
         checkoutBtn.addEventListener('click', () => {
             if (cart.length === 0) return;
-            
+
             let message = "*NUEVO PEDIDO - FABRICANTE PRIME RELOJES*\n\n";
             message += "Hola! Me gustaría finalizar la compra de los siguientes relojes:\n\n";
-            
+
             cart.forEach((item, i) => {
                 let model = (item.model||'').toLowerCase();
                 model = model.replace(/\b\w/g, l => l.toUpperCase());
-                
+
                 message += `*ITEM ${i+1}*\n`;
                 message += `*Marca:* ${item.brand}\n`;
                 message += `*Modelo:* ${model}\n`;
                 message += `*Cantidad:* ${item.quantity}x\n`;
-                message += `*Precio Unitario:* ${item.price}\n`;
                 message += `\n`;
             });
-            
-            message += `━━━━━━━━━━━━━━━━━━━━━\n`;
-            message += `*TOTAL DEL PEDIDO:* ${cartTotalPrice.textContent}\n`;
-            message += `━━━━━━━━━━━━━━━━━━━━━\n\n`;
+
             message += `Aguardando instrucciones para el pago y envío.`;
-            
+
             const phone = window.whatsappPhone || "554791028539"; 
             const encodedMessage = encodeURIComponent(message);
             window.open(`https://wa.me/${phone}?text=${encodedMessage}`, '_blank');
