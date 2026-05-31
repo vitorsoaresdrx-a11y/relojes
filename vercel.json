@@ -1,6 +1,13 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/henrique", "destination": "/index_henrique.html" }
+    { "source": "/henrique", "destination": "/index_henrique.html" },
+    { "source": "/rolex", "destination": "/index.html" },
+    { "source": "/omega", "destination": "/index.html" },
+    { "source": "/breitling", "destination": "/index.html" },
+    { "source": "/patek-philippe", "destination": "/index.html" },
+    { "source": "/audemars-piguet", "destination": "/index.html" },
+    { "source": "/panerai", "destination": "/index.html" },
+    { "source": "/tissot", "destination": "/index.html" }
   ]
 }
